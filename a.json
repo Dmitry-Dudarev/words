@@ -1,0 +1,1620 @@
+[
+  {
+    "number": 1,
+    "termin": "abandon",
+    "transcription": "[əˈbændən]",
+    "translate": "покидать, оставлять",
+    "definition": "перестать заботиться о чём-либо или ком-либо, оставить без присмотра, покинуть место или человека",
+    "examples": [
+      "They had to abandon the house during the storm.",
+      "The dog was abandoned by its owners."
+    ]
+  },
+  {
+    "number": 1,
+    "termin": "abandon",
+    "transcription": "[əˈbændən]",
+    "translate": "отказаться, прекратить",
+    "definition": "прекратить что-либо делать или отказаться от плана, идеи или попытки",
+    "examples": [
+      "She decided to abandon her career in law.",
+      "The project was abandoned due to lack of money."
+    ]
+  },
+  {
+    "number": 1,
+    "termin": "abandon",
+    "transcription": "[əˈbændən]",
+    "translate": "безудержность",
+    "definition": "состояние, при котором человек действует свободно, без контроля или сдерживания",
+    "examples": [
+      "He danced with complete abandon.",
+      "They lived with reckless abandon."
+    ]
+  },
+  {
+    "number": 2,
+    "termin": "abandonment",
+    "transcription": "[əˈbændənmənt]",
+    "translate": "оставление, отказ",
+    "definition": "действие или процесс оставления кого-либо или чего-либо без возврата; также состояние, когда кого-то бросили",
+    "examples": [
+      "The abandonment of the village shocked everyone.",
+      "She suffered from feelings of abandonment."
+    ]
+  },
+  {
+    "number": 3,
+    "termin": "abandoned",
+    "transcription": "[əˈbændənd]",
+    "translate": "заброшенный, оставленный",
+    "definition": "оставленный без присмотра или заботы; также о месте, которое больше не используется",
+    "examples": [
+      "They found an abandoned car in the forest.",
+      "The abandoned house looked scary."
+    ]
+  },
+  {
+    "number": 4,
+    "termin": "abandoning",
+    "transcription": "[əˈbændənɪŋ]",
+    "translate": "оставляющий, отказывающийся",
+    "definition": "форма глагола abandon, обозначающая процесс оставления или отказа от чего-либо",
+    "examples": [
+      "He is abandoning his old habits.",
+      "They are abandoning the plan step by step."
+    ]
+  },
+  {
+    "number": 5,
+    "termin": "abate",
+    "transcription": "[əˈbeɪt]",
+    "translate": "уменьшаться, ослабевать",
+    "definition": "Означает ослабевать, становиться менее интенсивным. Обычно употребляется по отношению к неприятным вещам: боли, шторму, шуму, гневу — когда они начинают утихать или снижаться.",
+    "examples": [
+      "The storm finally abated, leaving only light rain. (Шторм, наконец, утих, оставив лишь лёгкий дождь.)",
+      "Her anger abated after he apologized sincerely. (Её гнев поубавился после того, как он искренне извинился.) "
+    ]
+  },
+  {
+    "number": 6,
+    "termin": "abatement",
+    "transcription": "[əˈbeɪtmənt]",
+    "translate": "снижение, уменьшение",
+    "definition": "процесс уменьшения или прекращения чего-либо (шума, загрязнения, налогов, боли и т.п.)",
+    "examples": [
+      "The law requires noise abatement in the city.",
+      "There was a gradual abatement of her fears."
+    ]
+  },
+  {
+    "number": 7,
+    "termin": "abating",
+    "transcription": "[əˈbeɪtɪŋ]",
+    "translate": "уменьшающийся, ослабевающий",
+    "definition": "форма глагола abate, обозначающая процесс уменьшения чего-либо",
+    "examples": [
+      "The abating wind brought relief.",
+      "He watched the abating storm from the window."
+    ]
+  },
+  {
+    "number": 8,
+    "termin": "abduct",
+    "transcription": "[æbˈdʌkt]",
+    "translate": "похищать (более официальный термин нежели kidnap)",
+    "definition": "Означает похищать человека — насильно уводить или увозить без разрешения, чаще всего в криминальном контексте (похищение детей, людей, преступления).",
+    "examples": [
+      "The child was abducted on his way home from school.(Ребёнок был похищен по дороге из школы.)",
+      "Police believe the man was abducted by a local gang.(Полиция считает, что мужчину похитила местная банда.)"
+    ]
+  },
+  {
+    "number": 8,
+    "termin": "abduct",
+    "transcription": "[æbˈdʌkt]",
+    "translate": "отводить, смещать (медицинский термин)",
+    "definition": "двигать часть тела в сторону от средней линии тела (анатомический термин)",
+    "examples": [
+      "The muscle helps to abduct the arm.",
+      "Doctors tested his ability to abduct the leg."
+    ]
+  },
+  {
+    "number": 9,
+    "termin": "abduction",
+    "transcription": "[æbˈdʌkʃən]",
+    "translate": "похищение",
+    "definition": "действие похищения человека силой или обманом",
+    "examples": [
+      "The police are investigating the abduction.",
+      "Child abduction cases are very serious."
+    ]
+  },
+  {
+    "number": 10,
+    "termin": "abductor",
+    "transcription": "[æbˈdʌktər]",
+    "translate": "похититель",
+    "definition": "человек, который похищает другого человека",
+    "examples": [
+      "The police caught the abductor.",
+      "The abductors demanded a ransom."
+    ]
+  },
+  {
+    "number": 11,
+    "termin": "abide",
+    "transcription": "[əˈbaɪd]",
+    "translate": "терпеть, выносить",
+    "definition": "с трудом мириться или переносить кого-то или что-то неприятное",
+    "examples": [
+      "I can’t abide his rude behavior.",
+      "She could hardly abide the noise."
+    ]
+  },
+  {
+    "number": 11,
+    "termin": "abide",
+    "transcription": "[əˈbaɪd]",
+    "translate": "соблюдать, придерживаться",
+    "definition": "следовать правилам, закону или соглашению, не нарушая их",
+    "examples": [
+      "You must abide by the rules.",
+      "They promised to abide by the contract."
+    ]
+  },
+  {
+    "number": 12,
+    "termin": "abiding",
+    "transcription": "[əˈbaɪdɪŋ]",
+    "translate": "длительный, прочный (прил)",
+    "definition": "крепкий, продолжительный, сохраняющийся во времени",
+    "examples": [
+      "She has an abiding love for music.",
+      "They share an abiding friendship."
+    ]
+  },
+  {
+    "number": 13,
+    "termin": "able",
+    "transcription": "[ˈeɪbəl]",
+    "translate": "способный",
+    "definition": "обладающий необходимыми умениями, возможностями или силой для выполнения действия",
+    "examples": [
+      "She is able to solve the problem.",
+      "He was able to lift the box easily."
+    ]
+  },
+  {
+    "number": 13,
+    "termin": "able",
+    "transcription": "[ˈeɪbəl]",
+    "translate": "одарённый, талантливый",
+    "definition": "обладающий высоким уровнем ума, знаний или навыков",
+    "examples": [
+      "She is an able student.",
+      "They chose an able leader for the team."
+    ]
+  },
+  {
+    "number": 14,
+    "termin": "ably",
+    "transcription": "[ˈeɪbli]",
+    "translate": "умело, искусно (нареч)",
+    "definition": "с умением, показывая способности и навыки",
+    "examples": [
+      "She ably handled the situation.",
+      "He ably defended his opinion."
+    ]
+  },
+  {
+    "number": 15,
+    "termin": "abnormal",
+    "transcription": "[æbˈnɔːməl]",
+    "translate": "ненормальный",
+    "definition": "отличающийся от обычного или ожидаемого; выходящий за пределы нормы",
+    "examples": [
+      "The patient has an abnormal heartbeat.",
+      "They noticed abnormal behavior in the animal."
+    ]
+  },
+  {
+    "number": 16,
+    "termin": "abnormally",
+    "transcription": "[æbˈnɔːməli]",
+    "translate": "ненормально",
+    "definition": "таким образом, который отличается от нормы или обычного состояния",
+    "examples": [
+      "The test results were abnormally high.",
+      "He was abnormally quiet today."
+    ]
+  },
+  {
+    "number": 17,
+    "termin": "abnormality",
+    "transcription": "[ˌæbnɔːˈmæləti]",
+    "translate": "аномалия, отклонение",
+    "definition": "особенность или состояние, которое отклоняется от нормы или стандартов",
+    "examples": [
+      "Doctors found an abnormality in her lungs.",
+      "Genetic abnormalities can cause serious diseases."
+    ]
+  },
+  {
+    "number": 18,
+    "termin": "aboard",
+    "transcription": "[əˈbɔːrd]",
+    "translate": "на борту",
+    "definition": "внутри корабля, самолёта, поезда или другого транспортного средства",
+    "examples": [
+      "All passengers are aboard the plane.",
+      "They welcomed us aboard the ship."
+    ]
+  },
+  {
+    "number": 18,
+    "termin": "aboard",
+    "transcription": "[əˈbɔːrd]",
+    "translate": "на, в (транспорте)",
+    "definition": "указывает, что кто-то или что-то находится в транспорте или поднимается на него",
+    "examples": [
+      "She climbed aboard the bus.",
+      "The sailors went aboard the vessel."
+    ]
+  },
+  {
+    "number": 19,
+    "termin": "step aboard",
+    "transcription": "[stɛp əˈbɔːrd]",
+    "translate": "подняться на борт",
+    "definition": "сделать шаг внутрь транспортного средства или подняться на корабль, самолёт, поезд и т.п.",
+    "examples": [
+      "We stepped aboard the ship at noon.",
+      "She stepped aboard the train quickly."
+    ]
+  },
+  {
+    "number": 20,
+    "termin": "come aboard",
+    "transcription": "[kʌm əˈbɔːrd]",
+    "translate": "подняться на борт; присоединиться",
+    "definition": "буквально — попасть внутрь транспортного средства; переносно — присоединиться к команде, организации или проекту",
+    "examples": [
+      "The captain invited the guests to come aboard.",
+      "We’re glad you’ve come aboard our company."
+    ]
+  },
+  {
+    "number": 21,
+    "termin": "abolish",
+    "transcription": "[əˈbɑːlɪʃ]",
+    "translate": "отменять, упразднять",
+    "definition": "официально прекратить существование закона, системы, практики или учреждения",
+    "examples": [
+      "They abolished the old tax system.",
+      "Slavery was abolished in the 19th century."
+    ]
+  },
+  {
+    "number": 22,
+    "termin": "abolition",
+    "transcription": "[ˌæbəˈlɪʃn]",
+    "translate": "отмена, упразднение",
+    "definition": "действие по официальной отмене закона, практики или системы",
+    "examples": [
+      "The abolition of slavery was a historic moment.",
+      "They called for the abolition of the death penalty."
+    ]
+  },
+  {
+    "number": 23,
+    "termin": "abolitionist",
+    "transcription": "[ˌæbəˈlɪʃənɪst]",
+    "translate": "аболиционист, сторонник отмены",
+    "definition": "человек, выступающий за отмену какой-либо практики или института (особенно рабства)",
+    "examples": [
+      "The abolitionists fought against slavery.",
+      "She was known as a passionate abolitionist."
+    ]
+  },
+  {
+    "number": 24,
+    "termin": "abort",
+    "transcription": "[əˈbɔːrt]",
+    "translate": "прерывать, прекращать",
+    "definition": "остановить процесс или действие до его завершения",
+    "examples": [
+      "The mission had to be aborted due to technical problems.",
+      "They aborted the launch after detecting a fault."
+    ]
+  },
+  {
+    "number": 24,
+    "termin": "abort",
+    "transcription": "[əˈbɔːrt]",
+    "translate": "прерывать беременность (глагол)",
+    "definition": "прекратить развитие плода во время беременности",
+    "examples": [
+      "The doctor decided to abort the pregnancy for medical reasons.",
+      "She was unable to abort safely in her country."
+    ]
+  },
+  {
+    "number": 24,
+    "termin": "abort",
+    "transcription": "[əˈbɔːrt]",
+    "translate": "неудача, прерывание",
+    "definition": "ситуация, когда действие или процесс заканчиваются преждевременно и без успеха",
+    "examples": [
+      "The project ended in an abort.",
+      "A computer abort occurred during the program run."
+    ]
+  },
+  {
+    "number": 25,
+    "termin": "abortion",
+    "transcription": "[əˈbɔːrʃən]",
+    "translate": "аборт, прерывание (сущ)",
+    "definition": "акт прекращения беременности; также переносно — неудавшееся дело",
+    "examples": [
+      "Abortion is a controversial topic in many countries.",
+      "The plan turned into a complete abortion."
+    ]
+  },
+  {
+    "number": 26,
+    "termin": "abortive",
+    "transcription": "[əˈbɔːrtɪv]",
+    "translate": "неудавшийся, сорвавшийся",
+    "definition": "закончившийся неудачей, не приведший к результату",
+    "examples": [
+      "They made an abortive attempt to negotiate.",
+      "His efforts proved abortive."
+    ]
+  },
+  {
+    "number": 27,
+    "termin": "aborted",
+    "transcription": "[əˈbɔːrtɪd]",
+    "translate": "прерванный",
+    "definition": "остановленный или завершённый раньше времени",
+    "examples": [
+      "An aborted flight caused delays.",
+      "The experiment was aborted halfway through."
+    ]
+  },
+  {
+    "number": 28,
+    "termin": "abound",
+    "transcription": "[əˈbaʊnd]",
+    "translate": "изобиловать, быть в большом количестве",
+    "definition": "существовать в большом количестве, встречаться повсюду",
+    "examples": [
+      "Wildflowers abound in the valley.",
+      "Opportunities abound for those who are prepared."
+    ]
+  },
+  {
+    "number": 28,
+    "termin": "abound",
+    "transcription": "[əˈbaʊnd]",
+    "translate": "кишеть, быть переполненным",
+    "definition": "иметь большое количество чего-либо неприятного или заметного",
+    "examples": [
+      "The forest abounds with snakes.",
+      "Rumors abound in the small town."
+    ]
+  },
+  {
+    "number": 29,
+    "termin": "abundance",
+    "transcription": "[əˈbʌndəns]",
+    "translate": "изобилие",
+    "definition": "очень большое количество чего-либо; богатство, достаток",
+    "examples": [
+      "The garden produced an abundance of fruit.",
+      "There is an abundance of opportunities in the city."
+    ]
+  },
+  {
+    "number": 30,
+    "termin": "abundant",
+    "transcription": "[əˈbʌndənt]",
+    "translate": "обильный, многочисленный",
+    "definition": "существующий в большом количестве; более чем достаточный",
+    "examples": [
+      "Water is abundant in this region.",
+      "She has abundant energy and enthusiasm."
+    ]
+  },
+  {
+    "number": 31,
+    "termin": "abundantly",
+    "transcription": "[əˈbʌndəntli]",
+    "translate": "в изобилии",
+    "definition": "в большом количестве; в высшей степени",
+    "examples": [
+      "The flowers grew abundantly in the meadow.",
+      "He made it abundantly clear that he disagreed."
+    ]
+  },
+  {
+    "number": 32,
+    "termin": "about",
+    "transcription": "[əˈbaʊt]",
+    "translate": "около, приблизительно",
+    "definition": "указывает на примерное количество, время или величину",
+    "examples": [
+      "The book costs about ten dollars.",
+      "He arrived at about 5 o’clock."
+    ]
+  },
+  {
+    "number": 32,
+    "termin": "about",
+    "transcription": "[əˈbaʊt]",
+    "translate": "вокруг, поблизости",
+    "definition": "указывает на движение или нахождение вокруг чего-то или где-то рядом",
+    "examples": [
+      "She looked about nervously.",
+      "There were children running about the yard."
+    ]
+  },
+  {
+    "number": 32,
+    "termin": "about",
+    "transcription": "[əˈbaʊt]",
+    "translate": "повсюду, здесь и там",
+    "definition": "указывает на наличие чего-то в разных местах",
+    "examples": [
+      "Books were scattered about the room.",
+      "His clothes were lying about on the floor."
+    ]
+  },
+  {
+    "number": 32,
+    "termin": "about",
+    "transcription": "[əˈbaʊt]",
+    "translate": "готовый, вот-вот",
+    "definition": "указывает, что действие скоро произойдет",
+    "examples": [
+      "She is about to leave.",
+      "The show is about to start."
+    ]
+  },
+  {
+    "number": 33,
+    "termin": "how about ... ?",
+    "transcription": "[haʊ əˈbaʊt]",
+    "translate": "как насчёт ... ?",
+    "definition": "используется, чтобы предложить идею, действие или спросить мнение",
+    "examples": [
+      "How about going to the cinema tonight?",
+      "How about some coffee?"
+    ]
+  },
+  {
+    "number": 34,
+    "termin": "what about ... ?",
+    "transcription": "[wʌt əˈbaʊt]",
+    "translate": "а что насчёт ... ?",
+    "definition": "используется, чтобы обратить внимание на что-то или кого-то; спросить мнение или напомнить о чём-то",
+    "examples": [
+      "We can go to the park. What about John?",
+      "What about your homework?"
+    ]
+  },
+  {
+    "number": 35,
+    "termin": "about time",
+    "transcription": "[əˈbaʊt taɪm]",
+    "translate": "давно пора",
+    "definition": "употребляется, когда что-то наконец произошло или должно было случиться раньше",
+    "examples": [
+      "It’s about time you cleaned your room.",
+      "Well, about time you arrived!"
+    ]
+  },
+  {
+    "number": 36,
+    "termin": "just about",
+    "transcription": "[dʒʌst əˈbaʊt]",
+    "translate": "почти, едва ли",
+    "definition": "означает «почти, едва, практически»; часто употребляется в разговорной речи",
+    "examples": [
+      "I’ve just about finished my homework.",
+      "That’s just about the best cake I’ve ever had."
+    ]
+  },
+  {
+    "number": 37,
+    "termin": "go about (doing something)",
+    "transcription": "[ɡoʊ əˈbaʊt]",
+    "translate": "приступать к, заниматься",
+    "definition": "начинать делать что-то или выполнять задачу обычным образом",
+    "examples": [
+      "She knows how to go about solving the problem.",
+      "He went about fixing the car."
+    ]
+  },
+  {
+    "number": 38,
+    "termin": "abroad",
+    "transcription": "[əˈbrɔːd]",
+    "translate": "за границей, за рубежом",
+    "definition": "в другой стране или странах, вне своей родины",
+    "examples": [
+      "She studied abroad for two years.",
+      "He often travels abroad on business."
+    ]
+  },
+  {
+    "number": 38,
+    "termin": "abroad",
+    "transcription": "[əˈbrɔːd]",
+    "translate": "широко, повсюду",
+    "definition": "распространённый или известный везде",
+    "examples": [
+      "The news spread abroad quickly.",
+      "His fame is known abroad."
+    ]
+  },
+  {
+    "number": 39,
+    "termin": "abrupt",
+    "transcription": "[əˈbrʌpt]",
+    "translate": "внезапный, неожиданный",
+    "definition": "происходящий неожиданно, без подготовки или плавного перехода",
+    "examples": [
+      "The car came to an abrupt stop.",
+      "There was an abrupt change in the weather."
+    ]
+  },
+  {
+    "number": 39,
+    "termin": "abrupt",
+    "transcription": "[əˈbrʌpt]",
+    "translate": "резкий, грубый (о поведении, речи)",
+    "definition": "поведение или речь, выраженные коротко и без вежливости",
+    "examples": [
+      "His abrupt reply surprised her.",
+      "She found his manner rather abrupt."
+    ]
+  },
+  {
+    "number": 39,
+    "termin": "abrupt",
+    "transcription": "[əˈbrʌpt]",
+    "translate": "крутой, обрывистый",
+    "definition": "резко обрывающийся или имеющий крутой угол наклона",
+    "examples": [
+      "They climbed the abrupt cliff.",
+      "The path ended at an abrupt drop."
+    ]
+  },
+  {
+    "number": 40,
+    "termin": "abruptly",
+    "transcription": "[əˈbrʌptli]",
+    "translate": "внезапно, резко",
+    "definition": "неожиданным образом или с резкостью",
+    "examples": [
+      "He left the meeting abruptly.",
+      "The conversation ended abruptly."
+    ]
+  },
+  {
+    "number": 41,
+    "termin": "abruptness",
+    "transcription": "[əˈbrʌptnəs]",
+    "translate": "резкость, внезапность",
+    "definition": "свойство быть неожиданным, резким или грубым",
+    "examples": [
+      "The abruptness of his decision shocked everyone.",
+      "She was taken aback by the abruptness of his words."
+    ]
+  },
+  {
+    "number": 42,
+    "termin": "absent",
+    "transcription": "[ˈæbsənt]",
+    "translate": "отсутствующий",
+    "definition": "не находящийся в месте, где обычно должен быть; отсутствующий на занятиях, работе и т.п.",
+    "examples": [
+      "He was absent from school yesterday.",
+      "Several members were absent from the meeting."
+    ]
+  },
+  {
+    "number": 42,
+    "termin": "absent",
+    "transcription": "[ˈæbsənt]",
+    "translate": "рассеянный, отсутствующий (о взгляде, состоянии)",
+    "definition": "погружённый в свои мысли, не проявляющий внимания к окружающему",
+    "examples": [
+      "She gave him an absent look.",
+      "He nodded with an absent smile."
+    ]
+  },
+  {
+    "number": 42,
+    "termin": "absent",
+    "transcription": "[æbˈsɛnt]",
+    "translate": "отсутствовать, уйти",
+    "definition": "сознательно не присутствовать где-то, покидать место",
+    "examples": [
+      "He absented himself from the ceremony.",
+      "She absented herself from work without notice."
+    ]
+  },
+  {
+    "number": 43,
+    "termin": "absence",
+    "transcription": "[ˈæbsəns]",
+    "translate": "отсутствие",
+    "definition": "состояние, когда кого-то или чего-то нет на месте",
+    "examples": [
+      "His absence was noticed by everyone.",
+      "In the absence of evidence, the case was dismissed."
+    ]
+  },
+  {
+    "number": 44,
+    "termin": "absentee",
+    "transcription": "[ˌæbsənˈtiː]",
+    "translate": "отсутствующий",
+    "definition": "человек, который отсутствует, особенно постоянно или без уважительной причины",
+    "examples": [
+      "The teacher marked him as an absentee.",
+      "Absentees must provide a valid reason."
+    ]
+  },
+  {
+    "number": 45,
+    "termin": "absenteeism",
+    "transcription": "[ˌæbsənˈtiːɪzəm]",
+    "translate": "прогулы, отсутствие",
+    "definition": "частое отсутствие на работе или занятиях без уважительной причины",
+    "examples": [
+      "The company is trying to reduce absenteeism.",
+      "High absenteeism affected productivity."
+    ]
+  },
+  {
+    "number": 46,
+    "termin": "absorb",
+    "transcription": "[əbˈzɔːrb]",
+    "translate": "впитывать, поглощать (жидкость, газ, свет и т.д.)",
+    "definition": "вбирать внутрь жидкость, газ, свет, звук или энергию",
+    "examples": [
+      "The sponge absorbs water quickly.",
+      "Dark colors absorb more heat."
+    ]
+  },
+  {
+    "number": 46,
+    "termin": "absorb",
+    "transcription": "[əbˈzɔːrb]",
+    "translate": "усваивать (знания, информацию)",
+    "definition": "воспринимать и удерживать в памяти знания, идеи или информацию",
+    "examples": [
+      "Children absorb languages easily.",
+      "He absorbed all the details of the lecture."
+    ]
+  },
+  {
+    "number": 46,
+    "termin": "absorb",
+    "transcription": "[əbˈzɔːrb]",
+    "translate": "поглощать внимание, увлекать",
+    "definition": "полностью занимать чьи-то мысли или внимание",
+    "examples": [
+      "She was absorbed in reading the book.",
+      "The game absorbed all his attention."
+    ]
+  },
+  {
+    "number": 46,
+    "termin": "absorb",
+    "transcription": "[əbˈzɔːrb]",
+    "translate": "принимать на себя, принимать (удар, затраты, последствия)",
+    "definition": "сдерживать, уменьшать или брать на себя последствия удара, затрат или изменений",
+    "examples": [
+      "The company absorbed the cost of the repairs.",
+      "The cushion absorbs the impact."
+    ]
+  },
+  {
+    "number": 47,
+    "termin": "absorption",
+    "transcription": "[əbˈzɔːrpʃən]",
+    "translate": "поглощение, впитывание",
+    "definition": "процесс впитывания вещества, энергии, информации или внимания",
+    "examples": [
+      "Vitamin absorption is important for health.",
+      "The absorption of new knowledge takes time."
+    ]
+  },
+  {
+    "number": 48,
+    "termin": "absorbed",
+    "transcription": "[əbˈzɔːrbd]",
+    "translate": "поглощённый, увлеченный",
+    "definition": "полностью сосредоточенный на чём-то, не замечающий остального",
+    "examples": [
+      "She was deeply absorbed in her thoughts.",
+      "He is always absorbed in his work."
+    ]
+  },
+  {
+    "number": 49,
+    "termin": "absorbent",
+    "transcription": "[əbˈzɔːrbənt]",
+    "translate": "впитывающий",
+    "definition": "имеющий способность легко поглощать жидкости или вещества",
+    "examples": [
+      "Use an absorbent cloth to clean the spill.",
+      "Cotton is highly absorbent."
+    ]
+  },
+  {
+    "number": 50,
+    "termin": "abuse",
+    "transcription": "[əˈbjuːz]",
+    "translate": "злоупотреблять",
+    "definition": "использовать что-либо неправильно или во вред, особенно власть, властью или веществами",
+    "examples": [
+      "He abused his position of power.",
+      "Some people abuse alcohol."
+    ]
+  },
+  {
+    "number": 50,
+    "termin": "abuse",
+    "transcription": "[əˈbjuːz]",
+    "translate": "оскорблять, издеваться",
+    "definition": "обращаться с кем-то жестоко, унижать словами или действиями",
+    "examples": [
+      "The coach abused the players verbally.",
+      "She felt abused by his rude comments."
+    ]
+  },
+  {
+    "number": 50,
+    "termin": "abuse",
+    "transcription": "[əˈbjuːs]",
+    "translate": "злоупотребление",
+    "definition": "неправильное или чрезмерное использование чего-либо, часто наносящее вред",
+    "examples": [
+      "Drug abuse is a serious problem.",
+      "There were reports of abuse of power."
+    ]
+  },
+  {
+    "number": 50,
+    "termin": "abuse",
+    "transcription": "[əˈbjuːs]",
+    "translate": "оскорбления, издевательства",
+    "definition": "жестокие или унизительные слова или действия, причиняющие страдания",
+    "examples": [
+      "He shouted abuse at the referee.",
+      "Many children suffer from physical abuse."
+    ]
+  },
+  {
+    "number": 51,
+    "termin": "abusive",
+    "transcription": "[əˈbjuːsɪv]",
+    "translate": "оскорбительный",
+    "definition": "содержащий оскорбления или жестокое обращение",
+    "examples": [
+      "She left her husband because of his abusive behavior.",
+      "The abusive language shocked everyone."
+    ]
+  },
+  {
+    "number": 52,
+    "termin": "abusively",
+    "transcription": "[əˈbjuːsɪvli]",
+    "translate": "оскорбительно",
+    "definition": "таким образом, что содержит оскорбления или жестокость",
+    "examples": [
+      "He spoke abusively to his colleagues.",
+      "The children were treated abusively."
+    ]
+  },
+  {
+    "number": 53,
+    "termin": "abuser",
+    "transcription": "[əˈbjuːzər]",
+    "translate": "злоупотребляющий, обидчик, насильник",
+    "definition": "человек, который злоупотребляет чем-либо (например, алкоголем) или плохо обращается с другими",
+    "examples": [
+      "He is a known drug abuser.",
+      "Victims often fear their abusers."
+    ]
+  },
+  {
+    "number": 54,
+    "termin": "accelerate",
+    "transcription": "[əkˈseləreɪt]",
+    "translate": "ускорять, разгонять",
+    "definition": "увеличивать скорость движения или делать процесс более быстрым",
+    "examples": [
+      "The car accelerated quickly on the highway.",
+      "The driver accelerated to overtake the bus."
+    ]
+  },
+  {
+    "number": 54,
+    "termin": "accelerate",
+    "transcription": "[əkˈseləreɪt]",
+    "translate": "ускорять (развитие, рост, процесс)",
+    "definition": "заставлять что-то происходить быстрее, чем обычно",
+    "examples": [
+      "New technologies accelerate economic growth.",
+      "The drug accelerated his recovery."
+    ]
+  },
+  {
+    "number": 55,
+    "termin": "acceleration",
+    "transcription": "[əkˌseləˈreɪʃn]",
+    "translate": "ускорение",
+    "definition": "процесс увеличения скорости или темпа развития",
+    "examples": [
+      "The car’s acceleration impressed everyone.",
+      "We observed an acceleration in the rate of change."
+    ]
+  },
+  {
+    "number": 56,
+    "termin": "accelerator",
+    "transcription": "[əkˈseləreɪtər]",
+    "translate": "ускоритель, педаль газа",
+    "definition": "механизм или устройство, которое увеличивает скорость; в машине — педаль газа",
+    "examples": [
+      "He pressed the accelerator to speed up.",
+      "The accelerator of the project was additional funding."
+    ]
+  },
+  {
+    "number": 57,
+    "termin": "accelerated",
+    "transcription": "[əkˈseləreɪtɪd]",
+    "translate": "ускоренный",
+    "definition": "происходящий быстрее обычного",
+    "examples": [
+      "She took an accelerated course in English.",
+      "The disease showed accelerated progress."
+    ]
+  },
+  {
+    "number": 58,
+    "termin": "accept",
+    "transcription": "[əkˈsept]",
+    "translate": "принимать, соглашаться",
+    "definition": "соглашаться на что-то предложенное или признанное правильным",
+    "examples": [
+      "She accepted the job offer.",
+      "He accepted the invitation to the party."
+    ]
+  },
+  {
+    "number": 58,
+    "termin": "accept",
+    "transcription": "[əkˈsept]",
+    "translate": "признавать, соглашаться",
+    "definition": "признать факт, объяснение или ситуацию правильной или неизбежной",
+    "examples": [
+      "She accepted the fact that he was gone.",
+      "He accepted responsibility for the mistake."
+    ]
+  },
+  {
+    "number": 58,
+    "termin": "accept",
+    "transcription": "[əkˈsept]",
+    "translate": "принимать (оплату, документ), допускать к использованию",
+    "definition": "соглашаться использовать или допускать что-то (деньги, карточку, документ, заявку)",
+    "examples": [
+      "This shop accepts credit cards.",
+      "The university accepted 200 new students."
+    ]
+  },
+  {
+    "number": 59,
+    "termin": "acceptance",
+    "transcription": "[əkˈseptəns]",
+    "translate": "принятие, согласие",
+    "definition": "действие принятия чего-либо или признания его правильным",
+    "examples": [
+      "Her acceptance of the award was emotional.",
+      "The idea gained wide acceptance."
+    ]
+  },
+  {
+    "number": 60,
+    "termin": "acceptable",
+    "transcription": "[əkˈseptəbl]",
+    "translate": "приемлемый",
+    "definition": "такой, который можно принять, допустимый",
+    "examples": [
+      "This solution is acceptable to everyone.",
+      "The food was of an acceptable quality."
+    ]
+  },
+  {
+    "number": 61,
+    "termin": "unacceptable",
+    "transcription": "[ˌʌnəkˈseptəbl]",
+    "translate": "неприемлемый",
+    "definition": "такой, который нельзя принять или одобрить",
+    "examples": [
+      "His behavior was totally unacceptable.",
+      "The proposal is unacceptable for us."
+    ]
+  },
+  {
+    "number": 62,
+    "termin": "accepted",
+    "transcription": "[əkˈseptɪd]",
+    "translate": "принятый",
+    "definition": "такой, который признан правильным или допустимым большинством",
+    "examples": [
+      "It’s an accepted practice in business.",
+      "He was accepted as a member of the club."
+    ]
+  },
+  {
+    "number": 63,
+    "termin": "acceptably",
+    "transcription": "[əkˈseptəbli]",
+    "translate": "приемлемо",
+    "definition": "в такой степени, которая считается допустимой",
+    "examples": [
+      "The work was done acceptably well.",
+      "She behaved acceptably during the meeting."
+    ]
+  },
+  {
+    "number": 64,
+    "termin": "access",
+    "transcription": "[ˈækses]",
+    "translate": "доступ",
+    "definition": "право или возможность войти куда-то или использовать что-то",
+    "examples": [
+      "Only staff have access to the laboratory.",
+      "Students have free access to the library."
+    ]
+  },
+  {
+    "number": 64,
+    "termin": "access",
+    "transcription": "[ˈækses]",
+    "translate": "подход, путь",
+    "definition": "способ добраться до места или приблизиться к чему-то",
+    "examples": [
+      "There is no easy access to the mountain village.",
+      "The house has direct access to the beach."
+    ]
+  },
+  {
+    "number": 65,
+    "termin": "access",
+    "transcription": "[ˈækses]",
+    "translate": "получать доступ",
+    "definition": "получать возможность использовать что-то, войти куда-то или получить информацию",
+    "examples": [
+      "You can access the files online.",
+      "He accessed the secret documents."
+    ]
+  },
+  {
+    "number": 66,
+    "termin": "accessible",
+    "transcription": "[əkˈsesəbl]",
+    "translate": "доступный, достижимый",
+    "definition": "такой, до которого легко добраться или который легко использовать/понять",
+    "examples": [
+      "The museum is easily accessible by bus.",
+      "The book is written in an accessible style."
+    ]
+  },
+  {
+    "number": 67,
+    "termin": "accessibility",
+    "transcription": "[əkˌsesəˈbɪləti]",
+    "translate": "доступность",
+    "definition": "свойство быть доступным или удобным для использования/понимания",
+    "examples": [
+      "The accessibility of education is very important.",
+      "They improved the building’s accessibility for disabled people."
+    ]
+  },
+  {
+    "number": 68,
+    "termin": "inaccessible",
+    "transcription": "[ˌɪnækˈsesəbl]",
+    "translate": "недоступный",
+    "definition": "такой, до которого невозможно добраться или который невозможно использовать/понять",
+    "examples": [
+      "The remote island is almost inaccessible.",
+      "The text is inaccessible to most readers."
+    ]
+  },
+  {
+    "number": 69,
+    "termin": "accessor",
+    "transcription": "[ˈæksɛsər]",
+    "translate": "получатель доступа",
+    "definition": "человек или программа, имеющая доступ к данным или системе",
+    "examples": [
+      "Each accessor must be identified in the system.",
+      "The accessor retrieved the information quickly."
+    ]
+  },
+  {
+    "number": 70,
+    "termin": "accessory",
+    "transcription": "[əkˈsesəri]",
+    "translate": "аксессуар",
+    "definition": "предмет, который дополняет что-то основное, делает его более функциональным или красивым",
+    "examples": [
+      "She bought some new fashion accessories.",
+      "A phone case is a useful accessory."
+    ]
+  },
+  {
+    "number": 70,
+    "termin": "accessory",
+    "transcription": "[əkˈsesəri]",
+    "translate": "соучастник (в преступлении)",
+    "definition": "человек, который помогает в совершении преступления, но не играет главной роли",
+    "examples": [
+      "He was charged as an accessory to the robbery.",
+      "The police arrested her as an accessory to murder."
+    ]
+  },
+  {
+    "number": 70,
+    "termin": "accessory",
+    "transcription": "[əkˈsesəri]",
+    "translate": "дополнительный",
+    "definition": "служащий для дополнения или поддержки чего-либо основного",
+    "examples": [
+      "The car comes with accessory equipment.",
+      "Accessory muscles help in breathing."
+    ]
+  },
+  {
+    "number": 71,
+    "termin": "accessories",
+    "transcription": "[əkˈsesəriz]",
+    "translate": "аксессуары",
+    "definition": "дополнительные вещи или принадлежности, особенно в моде и технике",
+    "examples": [
+      "The shop sells clothes and matching accessories.",
+      "The computer was delivered with several accessories."
+    ]
+  },
+  {
+    "number": 72,
+    "termin": "accessorize",
+    "transcription": "[əkˈsesəraɪz]",
+    "translate": "дополнять аксессуарами",
+    "definition": "подбирать или добавлять аксессуары к одежде или предмету",
+    "examples": [
+      "She likes to accessorize her outfits with jewelry.",
+      "You can accessorize the room with new curtains."
+    ]
+  },
+  {
+    "number": 73,
+    "termin": "accident",
+    "transcription": "[ˈæksɪdənt]",
+    "translate": "несчастный случай, авария",
+    "definition": "внезапное событие, которое приводит к повреждениям, травмам или ущербу",
+    "examples": [
+      "He was injured in a car accident.",
+      "There was an accident at the factory."
+    ]
+  },
+  {
+    "number": 73,
+    "termin": "accident",
+    "transcription": "[ˈæksɪdənt]",
+    "translate": "случайность",
+    "definition": "непредвиденное событие, произошедшее без намерения или плана",
+    "examples": [
+      "Meeting her was a happy accident.",
+      "It happened by accident."
+    ]
+  },
+  {
+    "number": 74,
+    "termin": "accidental",
+    "transcription": "[ˌæksɪˈdentl]",
+    "translate": "случайный, непреднамеренный",
+    "definition": "произошедший без намерения или планирования",
+    "examples": [
+      "The damage was accidental.",
+      "It was an accidental discovery."
+    ]
+  },
+  {
+    "number": 75,
+    "termin": "accidentally",
+    "transcription": "[ˌæksɪˈdentəli]",
+    "translate": "случайно",
+    "definition": "непреднамеренно, нечаянно",
+    "examples": [
+      "She accidentally dropped her phone.",
+      "He accidentally deleted the file."
+    ]
+  },
+  {
+    "number": 76,
+    "termin": "accident-prone",
+    "transcription": "[ˈæksɪdənt proʊn]",
+    "translate": "склонный к несчастным случаям",
+    "definition": "часто попадающий в неприятные ситуации или аварии",
+    "examples": [
+      "He’s so accident-prone — always hurting himself.",
+      "Accident-prone workers need extra safety training."
+    ]
+  },
+  {
+    "number": 77,
+    "termin": "acclaim",
+    "transcription": "[əˈkleɪm]",
+    "translate": "приветствовать, провозглашать",
+    "definition": "публично выражать сильное одобрение или восхищение",
+    "examples": [
+      "The critics acclaimed the new play.",
+      "The scientist was acclaimed for his discovery."
+    ]
+  },
+  {
+    "number": 77,
+    "termin": "acclaim",
+    "transcription": "[əˈkleɪm]",
+    "translate": "признание, похвала",
+    "definition": "громкое одобрение или восхищение, часто выражаемое публично",
+    "examples": [
+      "The film received worldwide acclaim.",
+      "She won critical acclaim for her novel."
+    ]
+  },
+  {
+    "number": 78,
+    "termin": "acclaimed",
+    "transcription": "[əˈkleɪmd]",
+    "translate": "признанный",
+    "definition": "получивший широкое одобрение или похвалу",
+    "examples": [
+      "He is an acclaimed actor.",
+      "The museum presented an acclaimed exhibition."
+    ]
+  },
+  {
+    "number": 79,
+    "termin": "acclamation",
+    "transcription": "[ˌækləˈmeɪʃn]",
+    "translate": "одобрение, приветствие",
+    "definition": "громкое выражение одобрения или радости, часто аплодисментами",
+    "examples": [
+      "The speaker was elected by acclamation.",
+      "The winner was greeted with loud acclamation."
+    ]
+  },
+  {
+    "number": 80,
+    "termin": "acclamatory",
+    "transcription": "[əˈklæməˌtɔːri]",
+    "translate": "восторженный, приветственный",
+    "definition": "выражающий громкое одобрение или восхищение",
+    "examples": [
+      "The acclamatory response surprised the author.",
+      "Acclamatory cheers filled the stadium."
+    ]
+  },
+  {
+    "number": 81,
+    "termin": "accommodate",
+    "transcription": "[əˈkɑːmədeɪt]",
+    "translate": "размещать, предоставлять жильё",
+    "definition": "предоставлять место для проживания или размещения людей/вещей",
+    "examples": [
+      "The hotel can accommodate 200 guests.",
+      "The hall accommodates up to 500 people."
+    ]
+  },
+  {
+    "number": 81,
+    "termin": "accommodate",
+    "transcription": "[əˈkɑːmədeɪt]",
+    "translate": "приспосабливать, учитывать",
+    "definition": "делать что-то подходящим для определённых нужд; принимать во внимание требования других",
+    "examples": [
+      "The car was modified to accommodate disabled drivers.",
+      "The schedule was changed to accommodate students’ needs."
+    ]
+  },
+  {
+    "number": 81,
+    "termin": "accommodate",
+    "transcription": "[əˈkɑːmədeɪt]",
+    "translate": "идти навстречу, помогать",
+    "definition": "уступать или помогать кому-то, чтобы удовлетворить его просьбы",
+    "examples": [
+      "We always try to accommodate our clients.",
+      "She accommodated his request without hesitation."
+    ]
+  },
+  {
+    "number": 82,
+    "termin": "accommodation",
+    "transcription": "[əˌkɑːməˈdeɪʃn]",
+    "translate": "жильё, размещение",
+    "definition": "место для проживания или временного пребывания",
+    "examples": [
+      "We found cheap accommodation near the station.",
+      "The price includes meals and accommodation."
+    ]
+  },
+  {
+    "number": 83,
+    "termin": "accommodating",
+    "transcription": "[əˈkɑːmədeɪtɪŋ]",
+    "translate": "уступчивый, любезный",
+    "definition": "готовый помочь, учитывать интересы других",
+    "examples": [
+      "The staff were very accommodating.",
+      "She is always accommodating to her guests."
+    ]
+  },
+  {
+    "number": 84,
+    "termin": "accommodative",
+    "transcription": "[əˈkɑːmədeɪtɪv]",
+    "translate": "приспособительный, стеремящийся помочь, гибкий (человек)",
+    "definition": "стремящийся помочь или подстроиться под других; гибкий",
+    "examples": [
+      "The accommodative policy supported economic growth.",
+      "He was accommodative in negotiations."
+    ]
+  },
+  {
+    "number": 85,
+    "termin": "accompany",
+    "transcription": "[əˈkʌmpəni]",
+    "translate": "сопровождать",
+    "definition": "идти или находиться вместе с кем-то как спутник или защитник",
+    "examples": [
+      "She accompanied her friend to the station.",
+      "Children must be accompanied by an adult."
+    ]
+  },
+  {
+    "number": 86,
+    "termin": "accompaniment",
+    "transcription": "[əˈkʌmpənɪmənt]",
+    "translate": "сопровождение",
+    "definition": "то, что сопровождает другое; музыкальная партия, сопровождающая основное исполнение",
+    "examples": [
+      "Wine is a perfect accompaniment to cheese.",
+      "The song was performed with piano accompaniment."
+    ]
+  },
+  {
+    "number": 87,
+    "termin": "accomplish",
+    "transcription": "[əˈkʌmplɪʃ]",
+    "translate": "выполнять, достигать, завершить",
+    "definition": "успешно завершать задачу или достигать цели",
+    "examples": [
+      "She accomplished all her goals.",
+      "We have accomplished a lot this year."
+    ]
+  },
+  {
+    "number": 88,
+    "termin": "accomplishment",
+    "transcription": "[əˈkʌmplɪʃmənt]",
+    "translate": "достижение, успех",
+    "definition": "успешное выполнение чего-либо; то, что было достигнуто",
+    "examples": [
+      "Graduating from university was her greatest accomplishment.",
+      "The project is a major accomplishment for the team."
+    ]
+  },
+  {
+    "number": 89,
+    "termin": "accomplished",
+    "transcription": "[əˈkʌmplɪʃt]",
+    "translate": "искусный; завершённый",
+    "definition": "обладающий высоким уровнем мастерства; также о чём-то успешно завершённом",
+    "examples": [
+      "She is an accomplished pianist.",
+      "He is an accomplished writer.",
+      "The mission was accomplished successfully."
+    ]
+  },
+  {
+    "number": 90,
+    "termin": "accord",
+    "transcription": "[əˈkɔːrd]",
+    "translate": "согласие",
+    "definition": "состояние согласия, гармонии или единства между людьми, группами или вещами",
+    "examples": [
+      "The two sides finally reached an accord.",
+      "They live in accord with nature."
+    ]
+  },
+  {
+    "number": 90,
+    "termin": "accord",
+    "transcription": "[əˈkɔːrd]",
+    "translate": "соглашение, договор",
+    "definition": "официальное соглашение между государствами или организациями",
+    "examples": [
+      "The peace accord was signed in 1995.",
+      "Nations formed an accord on climate change."
+    ]
+  },
+  {
+    "number": 90,
+    "termin": "accord",
+    "transcription": "[əˈkɔːrd]",
+    "translate": "даровать, предоставлять",
+    "definition": "официально предоставлять что-либо (честь, право, статус)",
+    "examples": [
+      "He was accorded the highest honor.",
+      "The teacher accorded her special attention."
+    ]
+  },
+  {
+    "number": 91,
+    "termin": "of one’s own accord",
+    "transcription": "[əv wʌnz oʊn əˈkɔːrd]",
+    "translate": "по собственной воле",
+    "definition": "сделать что-то добровольно, без принуждения",
+    "examples": [
+      "She left of her own accord.",
+      "He helped us of his own accord."
+    ]
+  },
+  {
+    "number": 92,
+    "termin": "in accord with",
+    "transcription": "[ɪn əˈkɔːrd wɪð]",
+    "translate": "в согласии с",
+    "definition": "соответствовать чему-либо, находиться в гармонии",
+    "examples": [
+      "The decision was made in accord with the law.",
+      "His actions are in accord with his beliefs."
+    ]
+  },
+  {
+    "number": 93,
+    "termin": "accordance",
+    "transcription": "[əˈkɔːrdns]",
+    "translate": "соответствие",
+    "definition": "согласованность с правилами, законами или принципами",
+    "examples": [
+      "Everything was done in accordance with the plan.",
+      "The rules must be applied in accordance with the law."
+    ]
+  },
+  {
+    "number": 94,
+    "termin": "accordingly",
+    "transcription": "[əˈkɔːrdɪŋli]",
+    "translate": "соответственно, поэтому",
+    "definition": "в соответствии с обстоятельствами; как следствие",
+    "examples": [
+      "She studied hard and accordingly passed the exam.",
+      "We have to act accordingly."
+    ]
+  },
+  {
+    "number": 95,
+    "termin": "according to",
+    "transcription": "[əˈkɔːrdɪŋ tuː]",
+    "translate": "согласно, по словам",
+    "definition": "указывает на источник информации или на то, что что-то делается в соответствии с правилами, законами или чьими-либо словами",
+    "examples": [
+      "According to the weather forecast, it will rain tomorrow.",
+      "According to the teacher, the exam will be difficult."
+    ]
+  },
+  {
+    "number": 95,
+    "termin": "according to",
+    "transcription": "[əˈkɔːrdɪŋ tuː]",
+    "translate": "в соответствии с",
+    "definition": "делать что-либо так, как предписано правилами, планом или законом",
+    "examples": [
+      "The project was completed according to plan.",
+      "He acted according to the law."
+    ]
+  },
+  {
+    "number": 96,
+    "termin": "account",
+    "transcription": "[əˈkaʊnt]",
+    "translate": "счёт",
+    "definition": "запись или система, где учитываются деньги или ресурсы",
+    "examples": [
+      "I opened a bank account yesterday.",
+      "She checked her account balance online."
+    ]
+  },
+  {
+    "number": 96,
+    "termin": "account",
+    "transcription": "[əˈkaʊnt]",
+    "translate": "отчёт, описание",
+    "definition": "устное или письменное описание событий, фактов или опыта",
+    "examples": [
+      "He gave a detailed account of the meeting.",
+      "This book is an account of her travels."
+    ]
+  },
+  {
+    "number": 96,
+    "termin": "account",
+    "transcription": "[əˈkaʊnt]",
+    "translate": "значение, важность",
+    "definition": "степень значимости чего-либо",
+    "examples": [
+      "Safety is of great account here.",
+      "His opinion is of little account."
+    ]
+  },
+  {
+    "number": 96,
+    "termin": "account",
+    "transcription": "[əˈkaʊnt]",
+    "translate": "считать, рассматривать",
+    "definition": "принимать во внимание или считать кого-то/что-то определённым образом",
+    "examples": [
+      "He was accounted a hero.",
+      "The plan is accounted a success."
+    ]
+  },
+  {
+    "number": 97,
+    "termin": "accountable",
+    "transcription": "[əˈkaʊntəbl]",
+    "translate": "ответственный",
+    "definition": "несущий ответственность за действия и решения",
+    "examples": [
+      "He is accountable for his team’s results.",
+      "Politicians should be accountable to the public."
+    ]
+  },
+  {
+    "number": 98,
+    "termin": "take into account",
+    "transcription": "[teɪk ˈɪntu əˈkaʊnt]",
+    "translate": "принимать во внимание",
+    "definition": "учитывать факторы или обстоятельства при принятии решения",
+    "examples": [
+      "You must take his age into account.",
+      "We took all possibilities into account."
+    ]
+  },
+  {
+    "number": 99,
+    "termin": "on account of",
+    "transcription": "[ɑːn əˈkaʊnt ʌv]",
+    "translate": "из-за",
+    "definition": "по причине чего-либо, вследствие",
+    "examples": [
+      "The game was canceled on account of rain.",
+      "He couldn’t work on account of illness."
+    ]
+  },
+  {
+    "number": 100,
+    "termin": "by all accounts",
+    "transcription": "[baɪ ɔːl əˈkaʊnts]",
+    "translate": "по общему мнению",
+    "definition": "согласно тому, что говорят многие люди",
+    "examples": [
+      "By all accounts, she is a talented teacher.",
+      "It was, by all accounts, a difficult situation."
+    ]
+  },
+  {
+    "number": 101,
+    "termin": "accountability",
+    "transcription": "[əˌkaʊntəˈbɪləti]",
+    "translate": "подотчётность",
+    "definition": "обязанность отвечать за свои действия или решения",
+    "examples": [
+      "There is a need for greater accountability in government.",
+      "Accountability is important in business management."
+    ]
+  },
+  {
+    "number": 102,
+    "termin": "account for",
+    "transcription": "[əˈkaʊnt fɔːr]",
+    "translate": "объяснять, быть причиной",
+    "definition": "давать объяснение чему-либо или быть причиной чего-то",
+    "examples": [
+      "How do you account for his absence?",
+      "The bad weather accounts for the delay."
+    ]
+  },
+  {
+    "number": 102,
+    "termin": "account for",
+    "transcription": "[əˈkaʊnt fɔːr]",
+    "translate": "составлять (часть от целого)",
+    "definition": "образовывать определённую часть от общего количества",
+    "examples": [
+      "Exports account for 30% of the country’s income.",
+      "Tourism accounts for many jobs in the region."
+    ]
+  },
+  {
+    "number": 102,
+    "termin": "account for",
+    "transcription": "[əˈkaʊnt fɔːr]",
+    "translate": "отчитываться, объяснить свое поведение",
+    "definition": "давать отчёт за действия, объяснять поступки",
+    "examples": [
+      "You must account for every penny you spend.",
+      "The manager had to account for the company’s losses."
+    ]
+  },
+  {
+    "number": 103,
+    "termin": "accurate",
+    "transcription": "[ˈækjərət]",
+    "translate": "точный, правильный",
+    "definition": "содержащий правильные сведения; соответствующий фактам; без ошибок",
+    "examples": [
+      "The information is accurate and reliable.",
+      "She gave an accurate description of the event."
+    ]
+  },
+  {
+    "number": 103,
+    "termin": "accurate",
+    "transcription": "[ˈækjərət]",
+    "translate": "меткий, выверенный",
+    "definition": "выполненный с высокой степенью точности (о движениях, выстрелах, измерениях)",
+    "examples": [
+      "He is an accurate shooter.",
+      "The scientist made accurate measurements."
+    ]
+  },
+  {
+    "number": 104,
+    "termin": "accurately",
+    "transcription": "[ˈækjərətli]",
+    "translate": "точно",
+    "definition": "таким образом, что соответствует фактам или измерениям",
+    "examples": [
+      "She accurately predicted the results.",
+      "The machine can measure temperature accurately."
+    ]
+  },
+  {
+    "number": 105,
+    "termin": "accuracy",
+    "transcription": "[ˈækjərəsi]",
+    "translate": "точность",
+    "definition": "степень соответствия фактам или правильности выполнения",
+    "examples": [
+      "The accuracy of this data is questionable.",
+      "He shot with great accuracy."
+    ]
+  }
+]
