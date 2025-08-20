@@ -18,3 +18,129 @@ abate, abduct, abide, able, abnormal, aboard, abolish, abort, abound, about, abr
 
 abate, abduct, abide, able, abnormal, aboard, abolish, abort, abound, about, abroad, abrupt, absent, absorb, abundant, abuse, accelerate, accept, access, accessory, accident, acclaim, accommodate, accompany, accomplish, accord, according to, account, account for, accurate, accuse, accustom, ache, achieve, acid, acknowledge, acquaint, acquire, acquit, across, act, act on, act up, acute, adamant, add to, add up, addict, addition, adhere, adjacent, adjective, adjust, admire, admit, adolescent, adopt, adore, adorn, adult, adultery, advance, advantage, adventure, adverb, adversary, adverse, advertise, advice, advise, advocate, aerial, affair, affect, affection, affiliate, affirm, afflict, affluent, afford, afraid, after all, aftermath, age, agenda, aggravate, aggregate, agile, agitate, agree, agreement, agriculture, ahead, aid, ailment, aim, air, airborne, aircraft, airline, aisle, akin, alarm, alas, albeit, alter, alien, alienate, align, alike, alive, all along, allege, allegiance, allocate, allot, allow, allow for, allowance, allude, allure, ally, almost, alone, alongside, aloud, alter, alternate, although, altitude, altogether, amateur, amaze, ambassador, amber, ambiguous, ambulance, ambush, amend, amenity, amid, ammunition, amount, ample, amplify, amuse, ancestor, anchor, ancient, anew, anger, angle, angry, anguish, animate, ankle, anniversary, announce, annoy, annual, ant, anthem, anticipate, antique, anxiety, anxious, anymore, anytime, anyway, anywhere, apart, apart from, apartment, ape, apiece, apology, appal, apparent, appeal, appear, applause, appliance, apply, appoint, appraise, appreciate, apprentice, approach, appropriate, approve, approve of, approximate, apron, apt, aquatic, arbitrary, arc, arch, archive, area, argue, arise, arm, armor, arms, arouse, arrange, array, arrest, arrive, arrogant, arrow, arson, article, artificial, as though, as well, as well as, ascend, ascertain, ash, ashamed, ashtray, aside, aside from, ask around, ask out, asleep, aspire, ass, assassin, assault, assemble, assert, assess, asset, assign, assimilate, assist, associate, assume, assure, astonish, astound, asylum, at all, at first, at last, at least, at odds with, at once, at the moment, atop, atrocity, attach, attack, attain, attempt, attend, attic, attitude, attorney, attract, attribute, audible, audience, augment, aunt, authorities, authority, authorize, available, avalanche, average, avert, avid, avoid, await, awake, award, aware, awe, awesome, awful, awhile, awkward, axe, axis.
 
+They had to abandon the house during the storm. The dog was abandoned by its owners. 
+She dicided to abandon her career in law. The project was abandoned due to lack of money.
+He danced with complete abandon. They lived with reckless abandon.
+abandonment
+ The abandonment of the village shocked everyone. She suffered from feelings of abandonment.
+
+abandoned
+They found an abandoned car in the forest. The abandoned house looked scary.
+
+abandoning
+He is abandoning his old habbits. They are abandoning the plan step by step.
+
+abate
+The storm finally abated, leaving only the rain. Her anger abated after he apologized sincerely.
+
+abatement
+The law requires noise abatement in the city. There was a gradual abatement of her fears.
+
+abating
+The abating wind brought relief. He watched the abaiting storm from the window.
+
+abduct
+The child was abducted on his way home from school. Police believe the man was abducted by a local gang.
+
+abduction
+The police are investigating the abduction. Child abduction cases are very serious.
+
+abductor
+The police caught the abductor. The abductors demanded a ransom.
+
+abide
+I can't abide his rude behavior. She could hardly abide the noise.
+You must abide by the rules. They promised to abide the contract.
+
+abiding
+She has on abiding love for music. They share an abiding friendship.
+
+able
+She is able to solve the problem. He was able to lift the box easily.
+She if an able student. They chose an able leader for the team.
+
+ably
+She ably handled the situation. He ably defended his opinion.
+
+abnormal
+The patient has an abnormal heartbeat. They noticed abnormal behavior it the animal.
+
+abnormally
+The test results were abnormally high. He was abnormally quiet today.
+
+abnormality
+Doctors found an abnormality in her lungs. Genetic abnormality can cause serious diseases. 
+
+aboard
+All passangers are aboard the plain. They welcomed us aboard the ship.
+
+step aboard
+We stepped aboard the ship at noon. She stepped aboard the train quickly. 
+
+come aboard
+The captain invented the guests to come aboard. We're glad you've come aboard our company.
+
+abolish
+They abolished the old tax system. Slavery was abolished in the 19th century.
+
+abolition
+The abolition of slavery was a historic moment. They called for the abolition of the death penalty.
+
+abolitionist
+The abolitionist fought against slavery. She was know as a passionate abolitionist.
+
+abort
+The mission had to be aborted due to technical problems. They aborted the launch after detecting a fault.
+The doctor decided to abort the pregnancy for medical reasons. She was unable to abort safely in her country.
+The project ended in an abort. A computer abort occurred during the program run. 
+
+abortion
+Abortion is a controversal topic in many countries. The plan turned into a complete abortion.
+
+abortive
+They made an abortive attempt to negotiate. His efforts proved abortive.
+
+aborted
+An aborted flight caused delays. The experiment was aborted halfway through.
+
+abound
+Wildflowers abound in the valley. Opportunities abound those who are prepared.
+
+abound
+The forest abounds with snakes. Rumors abound in the small town.
+
+abundance
+The garden produced an abundance of fuits. There is an abundance of opportunities in the city. 
+
+abundant
+Water is abundant in this region. She has abundant energy and enthusiasm. 
+
+abundantly
+The flowers grew abundantly in the meadow. He made it abundantly clear that he disagreed.
+
+about
+The book costing about ten dollars. He arrived at about 5 o'clock.
+She looked about nervously. There were children running about the yard.
+Books were scattered about the room. His clothes were lying about on the floor.
+She is about to leave. The show is about to start.
+
+about time
+It's about time you cleaned your room. Well, about time you arrived.
+
+just about
+I've just about finished my homework. Thah's just about the best cake I've ever had.
+
+go about
+She knows how to go about solving the problem. He went about fixing the car. 
+
+abroad
+She studied abroad for two years. He often travels abroad on business.
+The news spread abroad quickly. His fame is known abroad.
+The car came to an abrupt stop. There was an abrupt change in the weather.
+His abrupt reply surprised her. She found his manner rather abrupt.
+They climbed the abrupt cliff. The path ended at an abrupt drop.
+
+011
+abandon - оставлять, покидать; abandon - отказаться, прекратить;
+abandon - безудержность; abandonment - оставление, отказ; abandoned - заброшенный, оставленный; abandoning - оставляющий, отказывающийся; abate - уменьшаться, ослабевать; abatement - сниженте, уменьшение; abating - уменьшающийся, ослабевающий; abduct - похищать; abduction - похищение; abductor - похититель; abide - терпеть, выносить; abide - соблюдать, придерживаться; abiding - длительный, прочный; able - одаренный, талантливый; ably - умело, искусно; abnormal - ненормальный; abnormally - ненормально; abnormality - аномалия, отклонение; aboard - на борту; aboard - на, в транспорте; step aboard - подняться на борт; come aboard - подняться на борт, присоединиться; abolish - отменять, упразднять; abolition - отмена, упразднение; abolitionist - аболиционист, сторонник отмены; abort - прерывать, прекращать; abort - прерывать беременность; abort - неудача, прерывание; abortion - аборт, прерывание; abortive - неудавшийся, сорвавшийся; aborted - прерванный; abound - изобиловать, быть в большом количестве; abound - кишеть, быть переполненным; abundance - изобилие; abundant - обильный, многочисленный; abundantly - в изобилии; about - около, приблизительно; about - вокруг, поблизости; about - повсюду, здесь и там; about - готовый, вот-вот; about time - давно пора; just about - почти, едва ли; go about - приступать к, заниматься; abroad - за границей, за рубежом; abroad - широко, повсюду; abrupt - внезапный, неожиданный; abrupt - резкий, грубый; abrupt - крутой, обрывистый; abruptly - внезапно, резко; abruptness - резкость, внезапность; absent - отсутствующий; absent - рассеяный, отсутствующий (о взгляде, состоянии); absent - отсутствовать, уйти; absence - отсутствие; absentee - человек, который постоянно отсутствует; absenteeism - прогулы, отсутствие; absorb - впитывать, поглощать, усваивать; absorb - поглощать внимание, увлекать; absorb - принимать на себя удары, затраты, последствия;
+absorption - поглощение, впитывание; absorbed - поглощенный, увлеченный; absorbent - впитывающий; abuse - злоупотреблять; abuse, abuse, abuse, abusive, abusively, abuser, accelerate, acceleration, accelerator, accelerated, accept, accept, accept, acceptance, acceptable, unacceptable, accepted, acceptably, access, access, access, accessible, accessibility, inaccessible, accessor, accessory, accessory, accessory, accessories, accessorize, accident, accident, accidental, accidentally, accident-prone, acclaim, acclaim, acclaimed, acclamation, acclamatory, accommodate, accommodate, accommodation, accommodating, accommodative, accompany, accompaniment, accomplish, accomplishment, accomplished, accord, accord, accord, of one's own accord, in accord with, accordance, accordingly, according to, account, account, account, account, accountable, take into account, on account of, by all accounts, accountability, account for, accurate, accurate, accurately, accuracy, 

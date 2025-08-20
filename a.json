@@ -1616,5 +1616,3137 @@
       "The accuracy of this data is questionable.",
       "He shot with great accuracy."
     ]
+  },
+  {
+    "termin": "accuse",
+    "transcription": "[əˈkjuːz]",
+    "translate": "обвинять",
+    "definition": "утверждать, что кто-то совершил проступок, преступление или сделал что-то плохое",
+    "examples": [
+      "She accused him of lying.",
+      "The police accused the man of theft."
+    ]
+  },
+  {
+    "termin": "accusation",
+    "transcription": "[ˌækjuˈzeɪʃn]",
+    "translate": "обвинение",
+    "definition": "утверждение о том, что кто-то виновен в нарушении закона или проступке",
+    "examples": [
+      "He denied the accusation of cheating.",
+      "Serious accusations were made against the company."
+    ]
+  },
+  {
+    "termin": "accused",
+    "transcription": "[əˈkjuːzd]",
+    "translate": "обвиняемый",
+    "definition": "человек, которого обвиняют в преступлении",
+    "examples": [
+      "The accused pleaded not guilty.",
+      "The court heard evidence against the accused."
+    ]
+  },
+  {
+    "termin": "accuser",
+    "transcription": "[əˈkjuːzər]",
+    "translate": "обвинитель",
+    "definition": "человек, который предъявляет обвинение",
+    "examples": [
+      "The accuser testified in court.",
+      "He faced his accuser during the trial."
+    ]
+  },
+  {
+    "termin": "accustom",
+    "transcription": "[əˈkʌstəm]",
+    "translate": "приучать, привыкать",
+    "definition": "делать кого-то знакомым с чем-то, чтобы это стало привычным и не вызывало трудностей",
+    "examples": [
+      "You must accustom yourself to cold showers.",
+      "The soldiers were accustomed to hard conditions."
+    ]
+  },
+  {
+    "termin": "ache",
+    "transcription": "[eɪk]",
+    "translate": "боль",
+    "definition": "неострая, длительная или ноющая боль в какой-либо части тела",
+    "examples": [
+      "He had a dull ache in his back.",
+      "A headache is a common ache."
+    ]
+  },
+  {
+    "termin": "ache for",
+    "transcription": "[eɪk fɔːr]",
+    "translate": "тосковать по, сильно желать",
+    "definition": "иметь сильное желание или тоску по чему-то",
+    "examples": [
+      "She ached for a holiday.",
+      "He ached for her love."
+    ]
+  },
+  {
+    "termin": "achieve",
+    "transcription": "[əˈtʃiːv]",
+    "translate": "достигать",
+    "definition": "успешно выполнять задачу, достигать цели после усилий",
+    "examples": [
+      "She achieved her dream of becoming a doctor.",
+      "They achieved excellent results in the competition."
+    ]
+  },
+  {
+    "termin": "achievement",
+    "transcription": "[əˈtʃiːvmənt]",
+    "translate": "достижение",
+    "definition": "успешное выполнение задачи или цели; значимый результат",
+    "examples": [
+      "Graduating from university was her greatest achievement.",
+      "The award is a major achievement for the team."
+    ]
+  },
+  {
+    "termin": "achiever",
+    "transcription": "[əˈtʃiːvər]",
+    "translate": "успешный человек",
+    "definition": "тот, кто достигает успеха и выполняет задачи",
+    "examples": [
+      "She is a high achiever at school.",
+      "Achievers are often self-motivated."
+    ]
+  },
+  {
+    "termin": "acid",
+    "transcription": "[ˈæsɪd]",
+    "translate": "кислота",
+    "definition": "химическое вещество с кислым вкусом, которое может разъедать или вступать в реакцию с другими веществами",
+    "examples": [
+      "Sulfuric acid is used in industry.",
+      "The scientist tested the strength of the acid."
+    ]
+  },
+  {
+    "termin": "acknowledge",
+    "transcription": "[əkˈnɑːlɪdʒ]",
+    "translate": "признавать",
+    "definition": "признавать существование или правду чего-либо",
+    "examples": [
+      "She refused to acknowledge her mistake.",
+      "He acknowledged that the problem was serious."
+    ]
+  },
+  {
+    "termin": "acknowledgement",
+    "transcription": "[əkˈnɑːlɪdʒmənt]",
+    "translate": "признание, благодарность",
+    "definition": "акт признания или выражения благодарности",
+    "examples": [
+      "The author gave acknowledgements at the end of the book.",
+      "There was no acknowledgement of his efforts."
+    ]
+  },
+  {
+    "termin": "acknowledged",
+    "transcription": "[əkˈnɑːlɪdʒd]",
+    "translate": "признанный",
+    "definition": "официально или широко признанный как истинный или важный",
+    "examples": [
+      "She is an acknowledged expert in her field.",
+      "He is the acknowledged leader of the group."
+    ]
+  },
+  {
+    "termin": "acknowledge receipt",
+    "transcription": "[əkˈnɑːlɪdʒ rɪˈsiːt]",
+    "translate": "подтвердить получение",
+    "definition": "официально сообщить, что письмо, документ, посылка или сообщение были получены",
+    "examples": [
+      "Please acknowledge receipt of this email.",
+      "The company acknowledged receipt of the complaint."
+    ]
+  },
+  {
+    "termin": "acquaint",
+    "transcription": "[əˈkweɪnt]",
+    "translate": "знакомить",
+    "definition": "давать кому-либо знание о чём-то, делать кого-то осведомлённым",
+    "examples": [
+      "He acquainted me with the new rules.",
+      "The manager will acquaint you with your duties."
+    ]
+  },
+  {
+    "termin": "acquaintance",
+    "transcription": "[əˈkweɪntəns]",
+    "translate": "знакомство; знакомый",
+    "definition": "1) состояние, когда кто-то знаком с кем-то или чем-то; 2) человек, которого ты знаешь, но не близко",
+    "examples": [
+      "I have some acquaintance with Spanish culture.",
+      "She is just a casual acquaintance, not a close friend."
+    ]
+  },
+  {
+    "termin": "a passing acquaintance",
+    "transcription": "[ə ˈpæsɪŋ əˈkweɪntəns]",
+    "translate": "поверхностное знакомство",
+    "definition": "ситуация, когда ты знаешь кого-то или что-то лишь немного, без глубокого знания или близких отношений",
+    "examples": [
+      "I have only a passing acquaintance with French literature.",
+      "She is just a passing acquaintance, not a close friend."
+    ]
+  },
+  {
+    "termin": "acquire",
+    "transcription": "[əˈkwaɪər]",
+    "translate": "приобретать, получать",
+    "definition": "получать что-то в собственность или во владение",
+    "examples": [
+      "They acquired a new company last year.",
+      "He acquired a rare painting at the auction."
+    ]
+  },
+  {
+    "termin": "acquisition",
+    "transcription": "[ˌækwɪˈzɪʃn]",
+    "translate": "приобретение",
+    "definition": "акт получения чего-то (знаний, навыков или собственности)",
+    "examples": [
+      "The acquisition of language is a natural process.",
+      "The company completed the acquisition of its rival."
+    ]
+  },
+  {
+    "termin": "acquit",
+    "transcription": "[əˈkwɪt]",
+    "translate": "оправдывать (в суде)",
+    "definition": "официально признавать в суде, что кто-то не виновен в преступлении",
+    "examples": [
+      "The jury acquitted him of all charges.",
+      "She was acquitted after a long trial."
+    ]
+  },
+  {
+    "termin": "acquit",
+    "transcription": "[əˈkwɪt]",
+    "translate": "вести себя",
+    "definition": "показывать себя определённым образом в какой-либо ситуации",
+    "examples": [
+      "He acquitted himself well during the debate.",
+      "The team acquitted themselves admirably."
+    ]
+  },
+  {
+    "termin": "across",
+    "transcription": "[əˈkrɔːs]",
+    "translate": "через, сквозь",
+    "definition": "указывает на движение с одной стороны чего-либо на другую",
+    "examples": [
+      "She walked across the street.",
+      "They swam across the river."
+    ]
+  },
+  {
+    "termin": "across",
+    "transcription": "[əˈkrɔːs]",
+    "translate": "по всей (территории), повсюду",
+    "definition": "указывает на распределение или наличие чего-то в разных местах",
+    "examples": [
+      "The news spread across the country.",
+      "Shops are located across the city."
+    ]
+  },
+  {
+    "termin": "come across",
+    "transcription": "[kʌm əˈkrɔːs]",
+    "translate": "наткнуться",
+    "definition": "неожиданно встретить кого-то или что-то",
+    "examples": [
+      "I came across an old friend in the city.",
+      "She came across an interesting book."
+    ]
+  },
+  {
+    "termin": "get across",
+    "transcription": "[ɡet əˈkrɔːs]",
+    "translate": "донести, объяснить",
+    "definition": "суметь объяснить идею или сделать её понятной",
+    "examples": [
+      "The teacher got the message across clearly.",
+      "It’s hard to get across how exciting this is."
+    ]
+  },
+  {
+    "termin": "act",
+    "transcription": "[ækt]",
+    "translate": "действовать, поступать",
+    "definition": "делать что-либо, предпринимать действия",
+    "examples": [
+      "You must act quickly in an emergency.",
+      "He acted wisely in that situation."
+    ]
+  },
+  {
+    "termin": "act",
+    "transcription": "[ækt]",
+    "translate": "поступок, действие",
+    "definition": "конкретное действие или поступок человека",
+    "examples": [
+      "It was an act of kindness.",
+      "His brave act saved lives."
+    ]
+  },
+  {
+    "termin": "act on",
+    "transcription": "[ækt ɑːn]",
+    "translate": "действовать в соответствии; влиять на",
+    "definition": "1) предпринимать действия в ответ на совет, информацию или решение; 2) оказывать влияние на что-либо",
+    "examples": [
+      "She acted on the doctor’s advice.",
+      "The medicine acts on the nervous system."
+    ]
+  },
+  {
+    "termin": "act up",
+    "transcription": "[ækt ʌp]",
+    "translate": "капризничать, барахлить",
+    "definition": "1) вести себя плохо или непослушно (о человеке, особенно ребёнке); 2) работать с перебоями, плохо функционировать (о технике, организме)",
+    "examples": [
+      "The children always act up when they’re tired.",
+      "My computer is acting up again."
+    ]
+  },
+  {
+    "termin": "acute",
+    "transcription": "[əˈkjuːt]",
+    "translate": "острый, сильный",
+    "definition": "очень сильный, резкий по интенсивности (о чувствах, боли, проблемах)",
+    "examples": [
+      "He felt an acute pain in his chest.",
+      "There is an acute shortage of water."
+    ]
+  },
+  {
+    "termin": "adamant",
+    "transcription": "[ˈædəmənt]",
+    "translate": "непреклонный",
+    "definition": "твёрдо держащийся своего мнения, отказывающийся менять решение",
+    "examples": [
+      "She was adamant that she would not go.",
+      "He is adamant about his innocence."
+    ]
+  },
+  {
+    "termin": "adamant",
+    "transcription": "[ˈædəmənt]",
+    "translate": "алмаз, твёрдый камень",
+    "definition": "мифический или очень твёрдый камень (в старинных текстах — символ несокрушимости)",
+    "examples": [
+      "His heart was as hard as adamant.",
+      "The shield was said to be made of adamant."
+    ]
+  },
+  {
+    "termin": "add to",
+    "transcription": "[æd tuː]",
+    "translate": "увеличивать, усиливать",
+    "definition": "делать что-то больше или важнее, добавляя к уже существующему",
+    "examples": [
+      "The new evidence adds to our understanding of the case.",
+      "The news only added to her worries."
+    ]
+  },
+  {
+    "termin": "add up",
+    "transcription": "[æd ʌp]",
+    "translate": "сходиться, иметь смысл",
+    "definition": "быть логичным или разумным",
+    "examples": [
+      "Her story doesn’t add up.",
+      "Everything he said adds up now."
+    ]
+  },
+  {
+    "termin": "addict",
+    "transcription": "[ˈædɪkt]",
+    "translate": "зависимый, наркоман",
+    "definition": "человек, который не может отказаться от употребления наркотиков, алкоголя или другой привычки",
+    "examples": [
+      "He is a drug addict.",
+      "She became a coffee addict."
+    ]
+  },
+  {
+    "termin": "addict",
+    "transcription": "[əˈdɪkt]",
+    "translate": "пристраститься",
+    "definition": "делать кого-то зависимым от определённого занятия или вещества",
+    "examples": [
+      "She was addicted to chocolate.",
+      "Many young people are addicted to social media."
+    ]
+  },
+  {
+    "termin": "addition",
+    "transcription": "[əˈdɪʃn]",
+    "translate": "добавление",
+    "definition": "акт добавления чего-либо к чему-то",
+    "examples": [
+      "The addition of sugar improved the taste.",
+      "There will be an addition to the team."
+    ]
+  },
+  {
+    "termin": "adhere",
+    "transcription": "[ədˈhɪr]",
+    "translate": "прилипать",
+    "definition": "плотно держаться за поверхность или вещество",
+    "examples": [
+      "The sticker won’t adhere to the wall.",
+      "Dust adhered to his shoes."
+    ]
+  },
+  {
+    "termin": "adhere",
+    "transcription": "[ədˈhɪr]",
+    "translate": "придерживаться, соблюдать",
+    "definition": "следовать правилам, соглашениям или убеждениям",
+    "examples": [
+      "They adhere to strict safety standards.",
+      "He adheres to his principles."
+    ]
+  },
+  {
+    "termin": "adherent",
+    "transcription": "[ədˈhɪrənt]",
+    "translate": "приверженец, последователь",
+    "definition": "человек, который поддерживает или следует идее, вере или организации",
+    "examples": [
+      "He is an adherent of traditional values.",
+      "The party has many loyal adherents."
+    ]
+  },
+  {
+    "termin": "adherent",
+    "transcription": "[ədˈhɪrənt]",
+    "translate": "прикреплённый",
+    "definition": "плотно держащийся на поверхности или приклеенный к чему-то",
+    "examples": [
+      "The label is adherent to the bottle.",
+      "Dirt was adherent to his clothes."
+    ]
+  },
+  {
+    "termin": "adjacent",
+    "transcription": "[əˈdʒeɪsnt]",
+    "translate": "прилегающий, соседний",
+    "definition": "находящийся рядом или непосредственно примыкающий к чему-то",
+    "examples": [
+      "The hotel is adjacent to the beach.",
+      "They bought the adjacent building."
+    ]
+  },
+  {
+    "termin": "adjective",
+    "transcription": "[ˈædʒɪktɪv]",
+    "translate": "прилагательное",
+    "definition": "часть речи, которая описывает существительное, указывая на его качество, свойство или характеристику",
+    "examples": [
+      "In the phrase ‘a red car’, ‘red’ is an adjective.",
+      "Adjectives describe nouns."
+    ]
+  },
+  {
+    "termin": "adjust",
+    "transcription": "[əˈdʒʌst]",
+    "translate": "регулировать, настраивать",
+    "definition": "менять что-либо немного, чтобы оно стало более подходящим или правильным",
+    "examples": [
+      "He adjusted the mirror before driving.",
+      "You should adjust the seat for comfort."
+    ]
+  },
+  {
+    "termin": "adjust",
+    "transcription": "[əˈdʒʌst]",
+    "translate": "приспосабливаться",
+    "definition": "изменять своё поведение или отношение, чтобы соответствовать новой ситуации",
+    "examples": [
+      "She quickly adjusted to life in the city.",
+      "He is adjusting well to his new job."
+    ]
+  },
+  {
+    "termin": "admire",
+    "transcription": "[ədˈmaɪər]",
+    "translate": "восхищаться",
+    "definition": "считать кого-то или что-то красивым, впечатляющим или достойным уважения",
+    "examples": [
+      "I admire her courage.",
+      "They stopped to admire the view."
+    ]
+  },
+  {
+    "termin": "admit",
+    "transcription": "[ədˈmɪt]",
+    "translate": "признавать",
+    "definition": "соглашаться с тем, что что-то является правдой, часто нехотя",
+    "examples": [
+      "She admitted her mistake.",
+      "He admitted that he was wrong."
+    ]
+  },
+  {
+    "termin": "admit",
+    "transcription": "[ədˈmɪt]",
+    "translate": "впускать, принимать",
+    "definition": "позволять кому-то войти или быть принятым куда-либо",
+    "examples": [
+      "The museum admits children free of charge.",
+      "He was admitted to the university."
+    ]
+  },
+  {
+    "termin": "adolescent",
+    "transcription": "[ˌædəˈlesnt]",
+    "translate": "подросток",
+    "definition": "молодой человек, находящийся в периоде перехода от детства к взрослости (примерно 12–18 лет)",
+    "examples": [
+      "The program is designed for adolescents.",
+      "Adolescents need support from their parents."
+    ]
+  },
+  {
+    "termin": "adolescent",
+    "transcription": "[ˌædəˈlesnt]",
+    "translate": "подростковый",
+    "definition": "относящийся к подростковому возрасту или характерный для него",
+    "examples": [
+      "Adolescent behavior can be unpredictable.",
+      "He wrote a book about adolescent psychology."
+    ]
+  },
+  {
+    "termin": "adopt",
+    "transcription": "[əˈdɑːpt]",
+    "translate": "усыновлять, удочерять",
+    "definition": "официально брать ребёнка в свою семью как сына или дочь",
+    "examples": [
+      "They decided to adopt a child from abroad.",
+      "The couple adopted two sisters."
+    ]
+  },
+  {
+    "termin": "adopt",
+    "transcription": "[əˈdɑːpt]",
+    "translate": "принимать, утверждать",
+    "definition": "официально одобрять или начинать использовать план, метод, правило или стиль",
+    "examples": [
+      "The government adopted a new policy.",
+      "She adopted a different approach to the problem."
+    ]
+  },
+  {
+    "termin": "adore",
+    "transcription": "[əˈdɔːr]",
+    "translate": "обожать",
+    "definition": "очень сильно любить кого-то или что-то",
+    "examples": [
+      "She adores her grandchildren.",
+      "He adores chocolate."
+    ]
+  },
+  {
+    "termin": "adorn",
+    "transcription": "[əˈdɔːrn]",
+    "translate": "украшать",
+    "definition": "делать что-то более красивым с помощью украшений или декоративных элементов",
+    "examples": [
+      "The walls were adorned with paintings.",
+      "She adorned her hair with flowers."
+    ]
+  },
+  {
+    "termin": "adult",
+    "transcription": "[ˈædʌlt] / [əˈdʌlt]",
+    "translate": "взрослый",
+    "definition": "относящийся к взрослым людям или предназначенный для них",
+    "examples": [
+      "He became an adult at eighteen.",
+      "The movie is for adult audiences only."
+    ]
+  },
+  {
+    "termin": "adultery",
+    "transcription": "[əˈdʌltəri]",
+    "translate": "прелюбодеяние, измена",
+    "definition": "сексуальная связь женатого/замужнего человека с кем-то, кто не является его супругом",
+    "examples": [
+      "He was accused of committing adultery.",
+      "Adultery was considered a serious crime in the past."
+    ]
+  },
+  {
+    "termin": "advance",
+    "transcription": "[ədˈvæns]",
+    "translate": "продвигаться",
+    "definition": "двигаться вперёд физически или в переносном смысле",
+    "examples": [
+      "The soldiers advanced towards the city.",
+      "Technology has advanced rapidly."
+    ]
+  },
+  {
+    "termin": "advance",
+    "transcription": "[ədˈvæns]",
+    "translate": "развивать, улучшать",
+    "definition": "способствовать развитию или продвижению чего-либо",
+    "examples": [
+      "The new discovery advanced medical science.",
+      "She advanced her career by studying abroad."
+    ]
+  },
+  {
+    "termin": "advance",
+    "transcription": "[ədˈvæns]",
+    "translate": "прогресс, продвижение",
+    "definition": "развитие, движение вперёд или улучшение",
+    "examples": [
+      "There have been great advances in technology.",
+      "His advance in rank was well deserved."
+    ]
+  },
+  {
+    "termin": "advance",
+    "transcription": "[ədˈvæns]",
+    "translate": "предварительный, аванс",
+    "definition": "сделанный или происходящий раньше ожидаемого времени",
+    "examples": [
+      "They gave us advance notice of the meeting.",
+      "They asked for an advance payment."
+    ]
+  },
+  {
+    "termin": "advantage",
+    "transcription": "[ədˈvæntɪdʒ]",
+    "translate": "преимущество, выгода",
+    "definition": "ситуация или условие, которое помогает достичь цели или делает положение лучше, чем у других",
+    "examples": [
+      "Her experience gives her an advantage over the others.",
+      "Living in the city has many advantages."
+    ]
+  },
+  {
+    "termin": "adventure",
+    "transcription": "[ədˈventʃər]",
+    "translate": "приключение",
+    "definition": "необычное, захватывающее событие или путешествие, связанное с риском или неожиданностями",
+    "examples": [
+      "They went on an exciting adventure in Africa.",
+      "Reading the book was like an adventure."
+    ]
+  },
+  {
+    "termin": "adventure",
+    "transcription": "[ədˈventʃər]",
+    "translate": "рисковать, отваживаться",
+    "definition": "отправляться куда-то или пробовать что-то рискованное",
+    "examples": [
+      "He adventured into the forest alone.",
+      "They adventured their lives for the mission."
+    ]
+  },
+  {
+    "termin": "adverb",
+    "transcription": "[ˈædvɜːrb]",
+    "translate": "наречие",
+    "definition": "Часть речи, которая обозначает признак действия, состояния или другого признака и отвечает на вопросы 'как?', 'где?', 'когда?', 'почему?'.",
+    "examples": [
+      "She spoke slowly and clearly.",
+      "I often visit my grandparents."
+    ]
+  },
+  {
+    "termin": "adversary",
+    "transcription": "[ˈædvərˌseri]",
+    "translate": "противник, соперник",
+    "definition": "Лицо или сторона, противостоящая кому-либо в споре, конфликте или соревновании.",
+    "examples": [
+      "He defeated his adversary in the final match.",
+      "They prepared to face a strong adversary."
+    ]
+  },
+  {
+    "termin": "adverse",
+    "transcription": "[ˈædvɜːrs]",
+    "translate": "неблагоприятный",
+    "definition": "Такой, который приносит вред или неудобство; противодействующий чему-либо.",
+    "examples": [
+      "They had to work in adverse weather conditions.",
+      "The drug may have adverse effects on health."
+    ]
+  },
+  {
+    "termin": "advertise",
+    "transcription": "[ˈædvərtaɪz]",
+    "translate": "рекламировать",
+    "definition": "Сообщать широкой публике о товаре, услуге или событии с целью привлечения внимания или покупателей.",
+    "examples": [
+      "They advertised their new product on TV.",
+      "The company advertised for a new manager."
+    ]
+  },
+  {
+    "termin": "advice",
+    "transcription": "[ədˈvaɪs]",
+    "translate": "совет",
+    "definition": "Рекомендация или указание о том, как поступить в определённой ситуации.",
+    "examples": [
+      "She gave me some good advice.",
+      "I need your advice about this problem."
+    ]
+  },
+  {
+    "termin": "advise",
+    "transcription": "[ədˈvaɪz]",
+    "translate": "советовать",
+    "definition": "Давать кому-либо совет, рекомендацию или указание относительно того, что следует сделать.",
+    "examples": [
+      "The doctor advised him to rest.",
+      "I advise you to be more careful."
+    ]
+  },
+  {
+    "termin": "advocate",
+    "transcription": "['ædvəkeɪt] (verb), ['ædvəkət] (noun)",
+    "translate": "защищать, сторонник",
+    "definition": "Как глагол: открыто поддерживать или защищать идею, действие или политику. Как существительное: человек, который публично защищает или поддерживает какое-либо дело или мнение.",
+    "examples": [
+      "She advocates equal rights for women.",
+      "He is an advocate of environmental protection."
+    ]
+  },
+  {
+    "termin": "aerial (adjective)",
+    "transcription": "[ˈeriəl]",
+    "translate": "воздушный",
+    "definition": "Относящийся к воздуху или происходящий в воздухе.",
+    "examples": [
+      "The plane took an aerial route over the mountains.",
+      "They filmed amazing aerial views of the city."
+    ]
+  },
+  {
+    "termin": "aerial (noun)",
+    "transcription": "[ˈeriəl]",
+    "translate": "антенна",
+    "definition": "Устройство для приёма или передачи радиоволн.",
+    "examples": [
+      "The TV aerial needs to be repaired.",
+      "He adjusted the car aerial to get better reception."
+    ]
+  },
+  {
+    "termin": "affair",
+    "transcription": "[əˈfer]",
+    "translate": "дело; роман",
+    "definition": "Событие или ситуация, имеющая важность для кого-то; также романтические или интимные отношения между людьми.",
+    "examples": [
+      "The whole affair was very complicated.",
+      "He had an affair with a colleague."
+    ]
+  },
+  {
+    "termin": "affect (verb)",
+    "transcription": "[əˈfekt]",
+    "translate": "влиять",
+    "definition": "Оказывать воздействие или влияние на кого-либо или что-либо.",
+    "examples": [
+      "The weather can affect your mood.",
+      "The new law will affect many people."
+    ]
+  },
+  {
+    "termin": "affect (noun, formal/psychology)",
+    "transcription": "[ˈæfekt]",
+    "translate": "эмоция, чувство",
+    "definition": "Эмоциональное состояние или выражение эмоций (термин, часто используемый в психологии).",
+    "examples": [
+      "The patient showed a flat affect.",
+      "Strong affect was visible in his voice."
+    ]
+  },
+  {
+    "termin": "affection",
+    "transcription": "[əˈfekʃn]",
+    "translate": "привязанность, любовь",
+    "definition": "Тёплое чувство симпатии или привязанности к кому-либо или чему-либо.",
+    "examples": [
+      "She has great affection for her family.",
+      "He showed his affection by smiling warmly."
+    ]
+  },
+  {
+    "termin": "affiliate (verb)",
+    "transcription": "[əˈfɪlieɪt]",
+    "translate": "присоединять(ся)",
+    "definition": "Присоединять организацию или человека к более крупной группе или официально связывать с ней.",
+    "examples": [
+      "The school is affiliated with a local university.",
+      "Many small clubs are affiliated to the national association."
+    ]
+  },
+  {
+    "termin": "affiliate (noun)",
+    "transcription": "[əˈfɪliət]",
+    "translate": "филиал, партнёр",
+    "definition": "Организация, связанная с более крупной организацией; также человек или компания, сотрудничающая в бизнесе.",
+    "examples": [
+      "The company has several affiliates in Europe.",
+      "Each affiliate operates under the same brand name."
+    ]
+  },
+  {
+    "termin": "affirm",
+    "transcription": "[əˈfɜːrm]",
+    "translate": "утверждать, подтверждать",
+    "definition": "Заявлять что-то официально или уверенно; подтверждать истинность или правильность чего-либо.",
+    "examples": [
+      "She affirmed her innocence.",
+      "The judge affirmed the decision of the lower court."
+    ]
+  },
+  {
+    "termin": "afflict",
+    "transcription": "[əˈflɪkt]",
+    "translate": "поражать, причинять страдание",
+    "definition": "Вызывать у кого-либо боль, страдание или серьёзные трудности.",
+    "examples": [
+      "Many people were afflicted by the disease.",
+      "The country has been afflicted with poverty for decades."
+    ]
+  },
+  {
+    "termin": "affluent",
+    "transcription": "[ˈæfluənt]",
+    "translate": "богатый, зажиточный",
+    "definition": "Обладающий большим количеством денег и материальных ресурсов; относящийся к зажиточному обществу.",
+    "examples": [
+      "He grew up in an affluent neighborhood.",
+      "Affluent families often send their children to private schools."
+    ]
+  },
+  {
+    "termin": "affluences",
+    "transcription": "[ˈæfluəns]",
+    "translate": "богатство, изобилие",
+    "definition": "Состояние, при котором у человека или группы людей есть большое количество денег, материальных благ и удобств.",
+    "examples": [
+      "The family lived in affluence after starting their business.",
+      "Affluence is not always a guarantee of happiness."
+    ]
+  },
+  {
+    "termin": "afford",
+    "transcription": "[əˈfɔːrd]",
+    "translate": "позволить себе",
+    "definition": "Иметь достаточно денег, времени или возможностей, чтобы сделать или приобрести что-либо.",
+    "examples": [
+      "I can’t afford a new car right now.",
+      "She could afford to take a long vacation."
+    ]
+  },
+  {
+    "termin": "afraid",
+    "transcription": "[əˈfreɪd]",
+    "translate": "испуганный, боящийся",
+    "definition": "Чувствующий страх или тревогу по поводу чего-либо; иногда используется для выражения вежливого сожаления.",
+    "examples": [
+      "She is afraid of the dark.",
+      "I’m afraid we can’t help you this time."
+    ]
+  },
+  {
+    "termin": "after all",
+    "transcription": "[ˈæftər ɔːl]",
+    "translate": "всё-таки; в конце концов",
+    "definition": "Устойчивое выражение, используемое для пояснения или оправдания, когда что-то оказалось ожидаемым или логичным; либо для смягчения отказа или возражения.",
+    "examples": [
+      "Don’t worry, he’s only a child after all.",
+      "She decided to join us after all."
+    ]
+  },
+  {
+    "termin": "aftermath",
+    "transcription": "[ˈæftərmæθ]",
+    "translate": "последствия",
+    "definition": "Результаты или последствия неприятного события, часто разрушительные или негативные.",
+    "examples": [
+      "The country struggled in the aftermath of the war.",
+      "Many people lost their homes in the aftermath of the earthquake."
+    ]
+  },
+  {
+    "termin": "age (noun)",
+    "transcription": "[eɪdʒ]",
+    "translate": "возраст",
+    "definition": "Количество лет, прожитых человеком, животным или существованием предмета.",
+    "examples": [
+      "She learned to read at the age of five.",
+      "What is the average age of the students?"
+    ]
+  },
+  {
+    "termin": "age (verb)",
+    "transcription": "[eɪdʒ]",
+    "translate": "стареть",
+    "definition": "Становиться старше или вызывать ощущение старения.",
+    "examples": [
+      "Smoking can age your skin.",
+      "He has aged a lot over the past few years."
+    ]
+  },
+  {
+    "termin": "agenda",
+    "transcription": "[əˈdʒendə]",
+    "translate": "повестка дня",
+    "definition": "Список вопросов или дел, подлежащих обсуждению или выполнению.",
+    "examples": [
+      "What’s the first item on the agenda?",
+      "The committee prepared an agenda for the meeting."
+    ]
+  },
+  {
+    "termin": "aggravate",
+    "transcription": "[ˈæɡrəveɪt]",
+    "translate": "усугублять, раздражать",
+    "definition": "Делать проблему, ситуацию или болезнь хуже; также — раздражать или выводить из себя кого-либо.",
+    "examples": [
+      "Loud noises can aggravate a headache.",
+      "His constant complaints really aggravate me."
+    ]
+  },
+  {
+    "termin": "aggregate (noun)",
+    "transcription": "[ˈæɡrɪɡət]",
+    "translate": "совокупность, сумма",
+    "definition": "Общее количество или целое, состоящее из множества отдельных частей.",
+    "examples": [
+      "The team scored an aggregate of 10 goals.",
+      "The data was presented in aggregate form."
+    ]
+  },
+  {
+    "termin": "aggregate (verb)",
+    "transcription": "[ˈæɡrɪɡeɪt]",
+    "translate": "собрать, объединить",
+    "definition": "Собирать вместе отдельные элементы в единое целое.",
+    "examples": [
+      "The website aggregates news from various sources.",
+      "We aggregated the survey results for analysis."
+    ]
+  },
+  {
+    "termin": "aggregate (adjective)",
+    "transcription": "[ˈæɡrɪɡət]",
+    "translate": "совокупный, общий",
+    "definition": "Обозначающий общую сумму или итог, образованный объединением частей.",
+    "examples": [
+      "The aggregate demand has increased this year.",
+      "They measured the aggregate weight of the goods."
+    ]
+  },
+  {
+    "termin": "agile",
+    "transcription": "[ˈædʒəl] или [ˈædʒaɪl]",
+    "translate": "проворный, гибкий",
+    "definition": "Быстро и легко двигающийся; также о мышлении — способный быстро и легко адаптироваться.",
+    "examples": [
+      "The gymnast is very agile.",
+      "We need an agile mind to solve this problem."
+    ]
+  },
+  {
+    "termin": "agitate",
+    "transcription": "[ˈædʒɪteɪt]",
+    "translate": "волновать, агитировать",
+    "definition": "Приводить в состояние волнения или беспокойства; побуждать людей действовать ради определённых идей или перемен.",
+    "examples": [
+      "The news agitated the public.",
+      "They agitated for better working conditions."
+    ]
+  },
+  {
+    "termin": "agree",
+    "transcription": "[əˈɡriː]",
+    "translate": "соглашаться",
+    "definition": "Иметь то же мнение, что и другой человек; выражать согласие с предложением или действием.",
+    "examples": [
+      "I agree with you completely.",
+      "They agreed to meet at 7 o’clock."
+    ]
+  },
+  {
+    "termin": "agreement",
+    "transcription": "[əˈɡriːmənt]",
+    "translate": "соглашение, согласие",
+    "definition": "Взаимное понимание или официальная договорённость между людьми, организациями или странами.",
+    "examples": [
+      "They finally reached an agreement after long talks.",
+      "The two sides signed a peace agreement."
+    ]
+  },
+  {
+    "termin": "agriculture",
+    "transcription": "[ˈæɡrɪˌkʌltʃər]",
+    "translate": "сельское хозяйство",
+    "definition": "Производственная деятельность, связанная с выращиванием растений и разведением животных для получения продуктов питания и сырья.",
+    "examples": [
+      "Agriculture is the backbone of the country’s economy.",
+      "He studied agriculture at university."
+    ]
+  },
+  {
+    "termin": "ahead",
+    "transcription": "[əˈhed]",
+    "translate": "впереди, заранее",
+    "definition": "Находясь спереди, в будущем или раньше ожидаемого времени.",
+    "examples": [
+      "The road ahead looks clear.",
+      "We planned the trip months ahead."
+    ]
+  },
+  {
+    "termin": "aid (noun)",
+    "transcription": "[eɪd]",
+    "translate": "помощь",
+    "definition": "Действие или средства, предоставленные для облегчения трудной ситуации или оказания поддержки.",
+    "examples": [
+      "The country received financial aid from its neighbors.",
+      "First aid can save lives in emergencies."
+    ]
+  },
+  {
+    "termin": "aid (verb)",
+    "transcription": "[eɪd]",
+    "translate": "помогать",
+    "definition": "Оказывать помощь или поддержку кому-либо или чему-либо.",
+    "examples": [
+      "The nurse aided the doctor during the operation.",
+      "He was aided by his friends in the project."
+    ]
+  },
+  {
+    "termin": "ailment",
+    "transcription": "[ˈeɪlmənt]",
+    "translate": "недомогание, болезнь",
+    "definition": "Лёгкое заболевание или недуг, обычно не опасное для жизни.",
+    "examples": [
+      "He suffered from a minor ailment.",
+      "Common ailments include colds and headaches."
+    ]
+  },
+  {
+    "termin": "aim (noun)",
+    "transcription": "[eɪm]",
+    "translate": "цель",
+    "definition": "То, чего человек хочет достичь; намерение или задача.",
+    "examples": [
+      "His main aim is to become a doctor.",
+      "The aim of this project is to help children."
+    ]
+  },
+  {
+    "termin": "aim (verb)",
+    "transcription": "[eɪm]",
+    "translate": "целиться; стремиться",
+    "definition": "Направлять оружие, предмет или действие на что-либо; также — стремиться достичь чего-либо.",
+    "examples": [
+      "He aimed the gun at the target.",
+      "We aim to finish the work by Friday."
+    ]
+  },
+  {
+    "termin": "air (noun)",
+    "transcription": "[er]",
+    "translate": "воздух; атмосфера",
+    "definition": "Газовая оболочка Земли, которой дышат живые существа; также может означать общую атмосферу, обстановку.",
+    "examples": [
+      "The air is fresh in the morning.",
+      "There was an air of excitement in the room."
+    ]
+  },
+  {
+    "termin": "air (verb)",
+    "transcription": "[er]",
+    "translate": "проветривать; транслировать",
+    "definition": "Давать чему-либо доступ к воздуху; также — показывать или передавать по радио и телевидению.",
+    "examples": [
+      "They aired the room before the guests arrived.",
+      "The program will be aired tomorrow evening."
+    ]
+  },
+  {
+    "termin": "airborne",
+    "transcription": "[ˈerˌbɔːrn]",
+    "translate": "находящийся в воздухе; воздушно-десантный",
+    "definition": "Передвигающийся или находящийся в воздухе; также — относящийся к войскам или операциям, выполняемым по воздуху.",
+    "examples": [
+      "The plane is now airborne.",
+      "Airborne troops landed during the night."
+    ]
+  },
+  {
+    "termin": "aircraft",
+    "transcription": "[ˈerkræft]",
+    "translate": "летательный аппарат",
+    "definition": "Любое транспортное средство, способное летать, например самолёт или вертолёт.",
+    "examples": [
+      "The airport was full of different types of aircraft.",
+      "The military aircraft flew over the city."
+    ]
+  },
+  {
+    "termin": "airline",
+    "transcription": "[ˈerlaɪn]",
+    "translate": "авиакомпания",
+    "definition": "Компания, которая занимается пассажирскими и грузовыми перевозками по воздуху.",
+    "examples": [
+      "She works for a major international airline.",
+      "The airline announced new safety measures."
+    ]
+  },
+  {
+    "termin": "aisle (noun)",
+    "transcription": "[aɪl]",
+    "translate": "проход",
+    "definition": "Проход между рядами сидений, полок или в церкви.",
+    "examples": [
+      "She walked down the aisle to her seat.",
+      "The supermarket aisles were crowded with shoppers."
+    ]
+  },
+  {
+    "termin": "akin",
+    "transcription": "[əˈkɪn]",
+    "translate": "похожий, сродни",
+    "definition": "Очень похожий по природе или характеру; имеющий сходство с чем-либо.",
+    "examples": [
+      "His feelings are akin to fear.",
+      "This style is akin to traditional art."
+    ]
+  },
+  {
+    "termin": "alarm",
+    "transcription": "[əˈlɑːrm]",
+    "translate": "тревога, сигнал",
+    "definition": "Сигнал или устройство, предупреждающее об опасности; также — чувство страха или беспокойства.",
+    "examples": [
+      "The fire alarm went off during the night.",
+      "She felt a sudden alarm when the door opened."
+    ]
+  },
+  {
+    "termin": "alarm (verb)",
+    "transcription": "[əˈlɑːrm]",
+    "translate": "пугать, тревожить",
+    "definition": "Вызывать у кого-либо страх или беспокойство.",
+    "examples": [
+      "The loud noise alarmed the children.",
+      "He was alarmed by the news."
+    ]
+  },
+  {
+    "termin": "alas",
+    "transcription": "[əˈlæs]",
+    "translate": "увы",
+    "definition": "Восклицание, выражающее печаль, сожаление или разочарование.",
+    "examples": [
+      "Alas, we lost the game.",
+      "She wanted to stay, but alas, she had to leave."
+    ]
+  },
+  {
+    "termin": "albeit",
+    "transcription": "[ˌɔːlˈbiːɪt]",
+    "translate": "хотя, пусть и",
+    "definition": "Союз, используемый для введения уступки; означает «хотя и» или «несмотря на то, что».",
+    "examples": [
+      "He accepted the job, albeit with some hesitation.",
+      "The film was good, albeit a little long."
+    ]
+  },
+  {
+    "termin": "alert",
+    "transcription": "[əˈlɜːrt]",
+    "translate": "бдительный, внимательный",
+    "definition": "Быстро замечающий и реагирующий на то, что происходит вокруг.",
+    "examples": [
+      "The guards were alert all night.",
+      "Stay alert while crossing the street."
+    ]
+  },
+  {
+    "termin": "alert (noun)",
+    "transcription": "[əˈlɜːrt]",
+    "translate": "тревога, предупреждение",
+    "definition": "Сигнал или сообщение, предупреждающее об опасности или необходимости быть осторожным.",
+    "examples": [
+      "The soldiers were on full alert.",
+      "The system sends an alert when the battery is low."
+    ]
+  },
+  {
+    "termin": "alien (adjective)",
+    "transcription": "[ˈeɪliən]",
+    "translate": "чужой, инопланетный",
+    "definition": "Принадлежащий к другой стране, культуре или миру; также — относящийся к внеземным существам.",
+    "examples": [
+      "She felt alien in the new city.",
+      "They believe in alien life forms."
+    ]
+  },
+  {
+    "termin": "alien (noun)",
+    "transcription": "[ˈeɪliən]",
+    "translate": "иностранец; пришелец",
+    "definition": "Лицо, не являющееся гражданином данной страны; также воображаемое или реальное существо с другой планеты.",
+    "examples": [
+      "The law protects the rights of aliens in the country.",
+      "The movie was about aliens invading Earth."
+    ]
+  },
+  {
+    "termin": "alienate",
+    "transcription": "[ˈeɪliəneɪt]",
+    "translate": "отчуждать, отдалять",
+    "definition": "Делать кого-либо менее дружелюбным или менее связанным; вызывать отчуждение или потерю поддержки.",
+    "examples": [
+      "His rude behavior alienated his colleagues.",
+      "The new policy could alienate many voters."
+    ]
+  },
+  {
+    "termin": "align",
+    "transcription": "[əˈlaɪn]",
+    "translate": "выравнивать, согласовывать",
+    "definition": "Располагать в одной линии; приводить в соответствие или согласие с чем-либо.",
+    "examples": [
+      "The wheels must be properly aligned.",
+      "Our goals should align with the company’s vision."
+    ]
+  },
+  {
+    "termin": "alike",
+    "transcription": "[əˈlaɪk]",
+    "translate": "похожий; одинаково",
+    "definition": "Как прилагательное: имеющий сходство, похожий. Как наречие: одинаковым образом или в равной степени.",
+    "examples": [
+      "The two sisters are very much alike. (adjective)",
+      "The law applies to everyone alike. (adverb)"
+    ]
+  },
+  {
+    "termin": "alive",
+    "transcription": "[əˈlaɪv]",
+    "translate": "живой",
+    "definition": "Находящийся в состоянии жизни; также используется для выражения активности, энергии или присутствия чего-либо.",
+    "examples": [
+      "He was injured but still alive.",
+      "The city is alive with music and laughter."
+    ]
+  },
+  {
+    "termin": "all along",
+    "transcription": "[ɔːl əˈlɔːŋ]",
+    "translate": "всё время",
+    "definition": "С самого начала до текущего момента; постоянно на протяжении всего времени.",
+    "examples": [
+      "I knew the truth all along.",
+      "She had been right all along."
+    ]
+  },
+  {
+    "termin": "allege",
+    "transcription": "[əˈledʒ]",
+    "translate": "утверждать (без доказательств)",
+    "definition": "Утверждать что-либо как факт, особенно без представления достаточных доказательств; часто используется в юридическом контексте.",
+    "examples": [
+      "The newspaper alleges that the company was involved in fraud.",
+      "He is alleged to have stolen the money."
+    ]
+  },
+  {
+    "termin": "allegiance",
+    "transcription": "[əˈliːdʒəns]",
+    "translate": "верность, преданность",
+    "definition": "Лояльность или преданность человеку, группе, государству или идеям.",
+    "examples": [
+      "Soldiers swear allegiance to their country.",
+      "He shifted his allegiance from one political party to another."
+    ]
+  },
+  {
+    "termin": "allocate",
+    "transcription": "[ˈæləkeɪt]",
+    "translate": "распределять, выделять",
+    "definition": "Назначать или выделять ресурсы, время или обязанности для конкретной цели.",
+    "examples": [
+      "The government allocated funds for education.",
+      "Each student was allocated a locker."
+    ]
+  },
+  {
+    "termin": "allot",
+    "transcription": "[əˈlɑːt]",
+    "translate": "выделять, отводить",
+    "definition": "Давать кому-либо часть чего-то (например, времени, денег, ресурсов) в установленной доле или порядке.",
+    "examples": [
+      "Each speaker was allotted ten minutes.",
+      "They allotted land to the settlers."
+    ]
+  },
+  {
+    "termin": "allow",
+    "transcription": "[əˈlaʊ]",
+    "translate": "разрешать, позволять",
+    "definition": "Давать кому-либо право или возможность сделать что-то; не препятствовать действию.",
+    "examples": [
+      "They don’t allow smoking in the building.",
+      "He allowed his son to go to the party."
+    ]
+  },
+  {
+    "termin": "allow for",
+    "transcription": "[əˈlaʊ fɔːr]",
+    "translate": "учитывать, делать поправку",
+    "definition": "Принимать во внимание что-либо при планировании или расчётах.",
+    "examples": [
+      "You should allow for delays when planning the trip.",
+      "The budget must allow for unexpected expenses."
+    ]
+  },
+  {
+    "termin": "allowance",
+    "transcription": "[əˈlaʊəns]",
+    "translate": "пособие, надбавка; допущение",
+    "definition": "Фиксированная сумма денег, регулярно выдаваемая на определённые нужды; также — допущение или послабление.",
+    "examples": [
+      "She gives her children a weekly allowance.",
+      "The company provides a travel allowance."
+    ]
+  },
+  {
+    "termin": "allude",
+    "transcription": "[əˈluːd]",
+    "translate": "намекать",
+    "definition": "Упоминать что-либо косвенно или намекать на что-то, не говоря прямо.",
+    "examples": [
+      "He alluded to his past experiences in the speech.",
+      "The article alludes to recent political events."
+    ]
+  },
+  {
+    "termin": "allure",
+    "transcription": "[əˈlʊr]",
+    "translate": "обаяние, привлекательность",
+    "definition": "Качество, которое сильно привлекает или очаровывает.",
+    "examples": [
+      "The allure of the city lights drew her in.",
+      "The job has a certain allure because of its prestige."
+    ]
+  },
+  {
+    "termin": "allure (verb)",
+    "transcription": "[əˈlʊr]",
+    "translate": "очаровывать, привлекать",
+    "definition": "Сильно привлекать кого-либо; манить своим очарованием или выгодой.",
+    "examples": [
+      "The resort allures tourists from all over the world.",
+      "She was allured by the promise of wealth."
+    ]
+  },
+  {
+    "termin": "ally",
+    "transcription": "[ˈælaɪ]",
+    "translate": "союзник",
+    "definition": "Государство, организация или человек, объединяющийся с другими для совместной цели.",
+    "examples": [
+      "Britain and France were allies in the war.",
+      "She is a strong ally in our fight for justice."
+    ]
+  },
+  {
+    "termin": "ally (verb)",
+    "transcription": "[əˈlaɪ]",
+    "translate": "объединяться, вступать в союз",
+    "definition": "Соединяться с кем-либо ради общей цели или интереса.",
+    "examples": [
+      "Several groups allied to form a coalition.",
+      "They allied themselves with the opposition party."
+    ]
+  },
+  {
+    "termin": "almost",
+    "transcription": "[ˈɔːlmoʊst]",
+    "translate": "почти",
+    "definition": "Используется, чтобы показать, что чего-то не хватает совсем немного до полного выполнения или достижения.",
+    "examples": [
+      "She almost missed the train.",
+      "It’s almost midnight."
+    ]
+  },
+  {
+    "termin": "alone",
+    "transcription": "[əˈloʊn]",
+    "translate": "одинокий, один",
+    "definition": "Без других людей; находящийся сам по себе.",
+    "examples": [
+      "She felt alone in the big city.",
+      "He was left alone in the room."
+    ]
+  },
+  {
+    "termin": "alongside",
+    "transcription": "[əˌlɔːŋˈsaɪd]",
+    "translate": "рядом с, бок о бок",
+    "definition": "Находясь рядом с кем-то или чем-то; вместе, бок о бок в работе или действии.",
+    "examples": [
+      "The boat came alongside the pier.",
+      "She worked alongside her colleagues on the project."
+    ]
+  },
+  {
+    "termin": "aloud",
+    "transcription": "[əˈlaʊd]",
+    "translate": "вслух",
+    "definition": "Произнося слова так, чтобы их можно было услышать, а не про себя.",
+    "examples": [
+      "She read the story aloud to the children.",
+      "He laughed aloud at the joke."
+    ]
+  },
+  {
+    "termin": "alter",
+    "transcription": "[ˈɔːltər]",
+    "translate": "изменять, переделывать",
+    "definition": "Менять что-либо частично, а не полностью; вносить изменения в объект, план или поведение.",
+    "examples": [
+      "She had to alter her dress before the party.",
+      "The plan was altered due to bad weather."
+    ]
+  },
+  {
+    "termin": "alternate",
+    "transcription": "[ˈɔːltərneɪt]",
+    "translate": "чередовать",
+    "definition": "Менять одно другим последовательно или поочерёдно.",
+    "examples": [
+      "She alternates between optimism and doubt.",
+      "Good days alternated with bad ones."
+    ]
+  },
+  {
+    "termin": "alternate (adjective)",
+    "transcription": "[ˈɔːltərnət]",
+    "translate": "чередующийся, запасной",
+    "definition": "Происходящий через один или поочерёдно; также — служащий заменой или запасом.",
+    "examples": [
+      "The committee meets on alternate Mondays.",
+      "An alternate route was suggested."
+    ]
+  },
+  {
+    "termin": "although",
+    "transcription": "[ɔːlˈðoʊ]",
+    "translate": "хотя",
+    "definition": "Союз, вводящий уступительное значение: показывает, что одно утверждение верно, несмотря на другое.",
+    "examples": [
+      "Although it was raining, we went for a walk.",
+      "He tried hard, although he didn’t succeed."
+    ]
+  },
+  {
+    "termin": "altitude",
+    "transcription": "[ˈæltɪtuːd]",
+    "translate": "высота",
+    "definition": "Высота над уровнем моря или земной поверхностью; также используется в авиации и географии.",
+    "examples": [
+      "The plane was flying at an altitude of 10,000 meters.",
+      "Some people feel sick at high altitudes."
+    ]
+  },
+  {
+    "termin": "altogether",
+    "transcription": "[ˌɔːltəˈɡɛðər]",
+    "translate": "в целом; полностью",
+    "definition": "Полностью, целиком; также — в общем, в целом (для подведения итога).",
+    "examples": [
+      "She stopped seeing him altogether.",
+      "Altogether, it was a successful trip."
+    ]
+  },
+  {
+    "termin": "amateur",
+    "transcription": "[ˈæmətər] / [ˈæmətʃʊr]",
+    "translate": "любительский",
+    "definition": "Сделанный непрофессионалом или не для коммерческих целей.",
+    "examples": [
+      "She took part in an amateur tennis competition.",
+      "Amateur radio is a popular hobby worldwide."
+    ]
+  },
+  {
+    "termin": "amaze",
+    "transcription": "[əˈmeɪz]",
+    "translate": "изумлять, поражать",
+    "definition": "Вызывать сильное удивление или восхищение у кого-либо.",
+    "examples": [
+      "Her talent never ceases to amaze me.",
+      "The magician amazed the audience."
+    ]
+  },
+  {
+    "termin": "ambassador",
+    "transcription": "[æmˈbæsədər]",
+    "translate": "посол",
+    "definition": "Официальный представитель государства в другой стране; также представитель какой-либо организации или бренда.",
+    "examples": [
+      "The French ambassador met with the president.",
+      "She became a brand ambassador for the company."
+    ]
+  },
+  {
+    "termin": "amber",
+    "transcription": "[ˈæmbər]",
+    "translate": "янтарь; жёлтый",
+    "definition": "Окаменевшая смола золотистого цвета; также используется для обозначения жёлтого сигнала светофора.",
+    "examples": [
+      "She wore a necklace made of amber.",
+      "The light turned amber before turning red."
+    ]
+  },
+  {
+    "termin": "ambiguous",
+    "transcription": "[æmˈbɪɡjuəs]",
+    "translate": "двусмысленный, неопределённый",
+    "definition": "Имеющий более одного значения или толкования; неясный, вызывающий сомнения.",
+    "examples": [
+      "His answer was ambiguous and confusing.",
+      "The law is written in ambiguous terms."
+    ]
+  },
+  {
+    "termin": "ambulance",
+    "transcription": "[ˈæmbjələns]",
+    "translate": "скорая помощь",
+    "definition": "Специальный автомобиль для перевозки больных или пострадавших в больницу.",
+    "examples": [
+      "The ambulance arrived within minutes.",
+      "She was taken to the hospital by ambulance."
+    ]
+  },
+  {
+    "termin": "ambush",
+    "transcription": "[ˈæmbʊʃ]",
+    "translate": "засада",
+    "definition": "Скрытое ожидание врага с целью внезапного нападения.",
+    "examples": [
+      "The soldiers set an ambush near the road.",
+      "They fell into an ambush prepared by the enemy."
+    ]
+  },
+  {
+    "termin": "ambush (verb)",
+    "transcription": "[ˈæmbʊʃ]",
+    "translate": "устраивать засаду",
+    "definition": "Нападать внезапно из укрытия.",
+    "examples": [
+      "The rebels ambushed the patrol.",
+      "They were ambushed while crossing the bridge."
+    ]
+  },
+  {
+    "termin": "amend",
+    "transcription": "[əˈmend]",
+    "translate": "вносить поправки, исправлять",
+    "definition": "Официально изменять или улучшать текст, закон, документ или поведение.",
+    "examples": [
+      "The constitution was amended in 1992.",
+      "He promised to amend his behavior."
+    ]
+  },
+  {
+    "termin": "amenity",
+    "transcription": "[əˈmenəti] / [əˈmiːnəti]",
+    "translate": "удобство, благо",
+    "definition": "Предмет или услуга, делающие жизнь комфортнее и приятнее, особенно в жилье или общественных местах.",
+    "examples": [
+      "The hotel offers many amenities such as a pool and a gym.",
+      "Public amenities include parks and libraries."
+    ]
+  },
+  {
+    "termin": "amid",
+    "transcription": "[əˈmɪd]",
+    "translate": "среди, посреди",
+    "definition": "Находясь в окружении чего-либо или во время какого-либо события.",
+    "examples": [
+      "The city remained calm amid the chaos.",
+      "He was confident amid the difficulties."
+    ]
+  },
+  {
+    "termin": "ammunition",
+    "transcription": "[ˌæmjəˈnɪʃn]",
+    "translate": "боеприпасы",
+    "definition": "Патроны, снаряды и другие материалы, используемые для стрельбы из оружия; также переносно — аргументы или средства защиты в споре.",
+    "examples": [
+      "The soldiers ran out of ammunition.",
+      "His mistake gave the opposition new ammunition."
+    ]
+  },
+  {
+    "termin": "amount",
+    "transcription": "[əˈmaʊnt]",
+    "translate": "количество, сумма",
+    "definition": "Общее число, величина или объём чего-либо; также денежная сумма.",
+    "examples": [
+      "A large amount of money was stolen.",
+      "The total amount is $500."
+    ]
+  },
+  {
+    "termin": "ample",
+    "transcription": "[ˈæmpl]",
+    "translate": "обильный, достаточный",
+    "definition": "Более чем достаточный по количеству или размеру; обильный, просторный.",
+    "examples": [
+      "There was ample food for everyone.",
+      "The room provides ample space for a meeting."
+    ]
+  },
+  {
+    "termin": "amplify",
+    "transcription": "[ˈæmplɪfaɪ]",
+    "translate": "усиливать, расширять",
+    "definition": "Делать что-то громче, сильнее или более значительным; расширять объяснение или идею.",
+    "examples": [
+      "The musician used a microphone to amplify his voice.",
+      "She amplified her argument with more details."
+    ]
+  },
+  {
+    "termin": "amuse",
+    "transcription": "[əˈmjuːz]",
+    "translate": "развлекать, забавлять",
+    "definition": "Дарить удовольствие, смех или интерес; вызывать чувство веселья.",
+    "examples": [
+      "The clown amused the children.",
+      "His stories always amuse me."
+    ]
+  },
+  {
+    "termin": "ancestor",
+    "transcription": "[ˈænsestər]",
+    "translate": "предок",
+    "definition": "Человек, от которого кто-либо произошёл; ранний представитель рода или вида.",
+    "examples": [
+      "Our ancestors lived in small villages.",
+      "He inherited the land from his ancestors."
+    ]
+  },
+  {
+    "termin": "anchor",
+    "transcription": "[ˈæŋkər]",
+    "translate": "якорь; ведущий",
+    "definition": "Тяжёлый предмет для удержания судна на месте; также — ведущий новостей или шоу, символ устойчивости и поддержки.",
+    "examples": [
+      "The ship dropped anchor near the coast.",
+      "He is a news anchor on national television."
+    ]
+  },
+  {
+    "termin": "anchor (verb)",
+    "transcription": "[ˈæŋkər]",
+    "translate": "бросать якорь; закреплять",
+    "definition": "Удерживать на месте, фиксировать; в переносном смысле — обеспечивать стабильность.",
+    "examples": [
+      "The boat was anchored offshore.",
+      "Her faith anchored her during hard times."
+    ]
+  },
+  {
+    "termin": "ancient",
+    "transcription": "[ˈeɪnʃənt]",
+    "translate": "древний",
+    "definition": "Очень старый; относящийся к далёкому прошлому.",
+    "examples": [
+      "They visited the ruins of an ancient city.",
+      "This tradition is ancient."
+    ]
+  },
+  {
+    "termin": "anew",
+    "transcription": "[əˈnuː]",
+    "translate": "заново, снова",
+    "definition": "Снова, по-новому, особенно после перерыва или изменения ситуации.",
+    "examples": [
+      "She began her life anew in another city.",
+      "After the defeat, the team tried anew."
+    ]
+  },
+  {
+    "termin": "anger",
+    "transcription": "[ˈæŋɡər]",
+    "translate": "гнев, ярость",
+    "definition": "Сильное чувство недовольства или враждебности.",
+    "examples": [
+      "He couldn’t control his anger.",
+      "Her words were filled with anger."
+    ]
+  },
+  {
+    "termin": "angle",
+    "transcription": "[ˈæŋɡl]",
+    "translate": "угол; точка зрения",
+    "definition": "Фигура, образованная пересечением двух линий; также — способ рассмотрения проблемы, точка зрения.",
+    "examples": [
+      "The triangle has three angles.",
+      "Let’s look at the problem from another angle."
+    ]
+  },
+  {
+    "termin": "angry",
+    "transcription": "[ˈæŋɡri]",
+    "translate": "сердитый, злой",
+    "definition": "Находящийся в состоянии сильного раздражения или недовольства.",
+    "examples": [
+      "She was angry about the delay.",
+      "Don’t be angry with me."
+    ]
+  },
+  {
+    "termin": "anguish",
+    "transcription": "[ˈæŋɡwɪʃ]",
+    "translate": "мука, страдание",
+    "definition": "Сильная физическая или душевная боль и страдание.",
+    "examples": [
+      "He cried out in anguish.",
+      "The anguish of losing a child is unbearable."
+    ]
+  },
+  {
+    "termin": "animate",
+    "transcription": "[ˈænɪmeɪt]",
+    "translate": "оживлять, воодушевлять",
+    "definition": "Делать что-то живым или более энергичным; в мультимедиа — создавать движение из неподвижных изображений.",
+    "examples": [
+      "The teacher’s words animated the students.",
+      "They animated the characters for the film."
+    ]
+  },
+  {
+    "termin": "animate (adjective)",
+    "transcription": "[ˈænɪmət]",
+    "translate": "живой, одушевлённый",
+    "definition": "Живой, обладающий жизнью; противоположность неживому или неодушевлённому.",
+    "examples": [
+      "Humans and animals are animate beings.",
+      "He spoke with an animate expression."
+    ]
+  },
+  {
+    "termin": "ankle",
+    "transcription": "[ˈæŋkl]",
+    "translate": "лодыжка, щиколотка",
+    "definition": "Часть ноги, соединяющая стопу с голенью.",
+    "examples": [
+      "She twisted her ankle while running.",
+      "His ankle was swollen after the fall."
+    ]
+  },
+  {
+    "termin": "anniversary",
+    "transcription": "[ˌænɪˈvɜːrsəri]",
+    "translate": "годовщина, юбилей",
+    "definition": "Дата, когда ежегодно вспоминают о каком-либо событии.",
+    "examples": [
+      "They celebrated their wedding anniversary.",
+      "The company marked its 50th anniversary last year."
+    ]
+  },
+  {
+    "termin": "announce",
+    "transcription": "[əˈnaʊns]",
+    "translate": "объявлять, сообщать",
+    "definition": "Официально или публично делать сообщение о чём-либо.",
+    "examples": [
+      "The president announced a new policy.",
+      "They announced the results of the competition."
+    ]
+  },
+  {
+    "termin": "annoy",
+    "transcription": "[əˈnɔɪ]",
+    "translate": "раздражать, надоедать",
+    "definition": "Вызывать у кого-либо лёгкое раздражение или досаду.",
+    "examples": [
+      "The noise from the street annoyed him.",
+      "It annoys me when people are late."
+    ]
+  },
+  {
+    "termin": "annual",
+    "transcription": "[ˈænjuəl]",
+    "translate": "ежегодный",
+    "definition": "Происходящий один раз в год.",
+    "examples": [
+      "The company holds an annual meeting.",
+      "She bought an annual subscription."
+    ]
+  },
+  {
+    "termin": "ant",
+    "transcription": "[ænt]",
+    "translate": "муравей",
+    "definition": "Насекомое, живущее колониями и известное своей трудолюбием.",
+    "examples": [
+      "The ants carried food back to their nest.",
+      "An ant crawled across the table."
+    ]
+  },
+  {
+    "termin": "anthem",
+    "transcription": "[ˈænθəm]",
+    "translate": "гимн",
+    "definition": "Торжественная песня, символизирующая нацию, организацию или выражающая особые чувства и идеи.",
+    "examples": [
+      "The national anthem was played at the ceremony.",
+      "This song became an anthem of the youth movement."
+    ]
+  },
+  {
+    "termin": "anticipate",
+    "transcription": "[ænˈtɪsɪpeɪt]",
+    "translate": "ожидать, предвидеть",
+    "definition": "Ожидать, предсказывать или заранее готовиться к чему-либо; иногда — с нетерпением ждать.",
+    "examples": [
+      "They eagerly anticipated the arrival of spring.",
+      "We must anticipate possible problems."
+    ]
+  },
+  {
+    "termin": "antique",
+    "transcription": "[ænˈtiːk]",
+    "translate": "старинный, антикварный",
+    "definition": "Очень старый, относящийся к прошлым эпохам, обычно ценный или редкий.",
+    "examples": [
+      "They bought an antique clock.",
+      "The house was filled with antique furniture."
+    ]
+  },
+  {
+    "termin": "anxiety",
+    "transcription": "[æŋˈzaɪəti]",
+    "translate": "тревога, беспокойство",
+    "definition": "Состояние нервного волнения, беспокойства или страха, часто без явной причины.",
+    "examples": [
+      "He suffers from anxiety before exams.",
+      "Her voice was full of anxiety."
+    ]
+  },
+  {
+    "termin": "anxious",
+    "transcription": "[ˈæŋkʃəs]",
+    "translate": "взволнованный; сильно желающий",
+    "definition": "Чувствующий тревогу или беспокойство; также — сильно стремящийся к чему-то (обычно с оттенком беспокойства).",
+    "examples": [
+      "She felt anxious before the interview.",
+      "He was anxious to start the new project."
+    ]
+  },
+  {
+    "termin": "anymore",
+    "transcription": "[ˌeniˈmɔːr]",
+    "translate": "больше не, уже не",
+    "definition": "Используется в отрицательных или вопросительных предложениях для обозначения того, что что-то больше не происходит или не является правдой.",
+    "examples": [
+      "I don’t live here anymore.",
+      "Do you see him anymore?"
+    ]
+  },
+  {
+    "termin": "anytime",
+    "transcription": "[ˈeniˌtaɪm]",
+    "translate": "в любое время",
+    "definition": "Без ограничений по времени; когда угодно.",
+    "examples": [
+      "You can call me anytime.",
+      "Come and visit us anytime you like."
+    ]
+  },
+  {
+    "termin": "anyway",
+    "transcription": "[ˈeniweɪ]",
+    "translate": "в любом случае",
+    "definition": "Используется для продолжения разговора, несмотря на сказанное ранее; также для подчёркивания неважности чего-либо.",
+    "examples": [
+      "It’s not very good, but I’ll buy it anyway.",
+      "Anyway, let’s get back to the main topic."
+    ]
+  },
+  {
+    "termin": "anywhere",
+    "transcription": "[ˈeniwer]",
+    "translate": "где угодно",
+    "definition": "В любом месте; также в отрицательных предложениях — нигде.",
+    "examples": [
+      "You can sit anywhere you like.",
+      "I can’t find my keys anywhere."
+    ]
+  },
+  {
+    "termin": "apart",
+    "transcription": "[əˈpɑːrt]",
+    "translate": "отдельно, врозь",
+    "definition": "На расстоянии друг от друга; не вместе.",
+    "examples": [
+      "The two houses are 200 meters apart.",
+      "They live apart after the divorce."
+    ]
+  },
+  {
+    "termin": "apart from",
+    "transcription": "[əˈpɑːrt frʌm]",
+    "translate": "кроме; помимо",
+    "definition": "Используется для добавления или исключения чего-либо; кроме того.",
+    "examples": [
+      "Apart from English, she speaks French.",
+      "Apart from the cost, the trip was wonderful."
+    ]
+  },
+  {
+    "termin": "apartment",
+    "transcription": "[əˈpɑːrtmənt]",
+    "translate": "квартира",
+    "definition": "Жилое помещение в здании, состоящее из одной или нескольких комнат, обычно арендуемое.",
+    "examples": [
+      "They rented a small apartment in the city.",
+      "Her apartment is on the fifth floor."
+    ]
+  },
+  {
+    "termin": "ape",
+    "transcription": "[eɪp]",
+    "translate": "обезьяна (человекоподобная)",
+    "definition": "Крупное приматное животное без хвоста (например, горилла, шимпанзе, орангутан).",
+    "examples": [
+      "The zoo has several species of apes.",
+      "Humans and apes share a common ancestor."
+    ]
+  },
+  {
+    "termin": "ape (verb)",
+    "transcription": "[eɪp]",
+    "translate": "передразнивать, подражать",
+    "definition": "Подражать кому-либо, часто неуклюже или глупо.",
+    "examples": [
+      "The child aped his teacher’s gestures.",
+      "He tried to ape his older brother."
+    ]
+  },
+  {
+    "termin": "apiece",
+    "transcription": "[əˈpiːs]",
+    "translate": "каждому, по одному",
+    "definition": "Для каждого человека или предмета; в равной доле.",
+    "examples": [
+      "The apples cost two dollars apiece.",
+      "They received one ticket apiece."
+    ]
+  },
+  {
+    "termin": "apology",
+    "transcription": "[əˈpɑːlədʒi]",
+    "translate": "извинение",
+    "definition": "Признание ошибки или вины с выражением сожаления и просьбой о прощении.",
+    "examples": [
+      "She made an apology for being late.",
+      "He offered a sincere apology to his friend."
+    ]
+  },
+  {
+    "termin": "appal",
+    "transcription": "[əˈpɔːl] (BrE), [əˈpɑːl] (AmE)",
+    "translate": "ужасать, потрясать",
+    "definition": "Вызывать сильный шок, ужас или отвращение.",
+    "examples": [
+      "The cruelty of the crime appalled everyone.",
+      "I was appalled by his behavior."
+    ]
+  },
+  {
+    "termin": "apparent",
+    "transcription": "[əˈpærənt]",
+    "translate": "очевидный; кажущийся",
+    "definition": "Легко заметный, очевидный; также — кажущийся, но не обязательно истинный.",
+    "examples": [
+      "Her disappointment was apparent to everyone.",
+      "There is an apparent contradiction in his story."
+    ]
+  },
+  {
+    "termin": "appeal",
+    "transcription": "[əˈpiːl]",
+    "translate": "обращаться; привлекать; обжаловать",
+    "definition": "Просить о помощи или поддержке; быть привлекательным или интересным; официально просить о пересмотре решения (в суде).",
+    "examples": [
+      "She appealed to him for help.",
+      "The idea of working abroad appeals to me.",
+      "He decided to appeal against the court’s decision."
+    ]
+  },
+  {
+    "termin": "appear",
+    "transcription": "[əˈpɪr]",
+    "translate": "появляться; казаться",
+    "definition": "Становиться видимым или становиться известным; производить впечатление чего-либо.",
+    "examples": [
+      "A bright star appeared in the sky.",
+      "She appears to be very happy."
+    ]
+  },
+  {
+    "termin": "applause",
+    "transcription": "[əˈplɔːz]",
+    "translate": "аплодисменты",
+    "definition": "Хлопки и одобрительные возгласы публики в знак признания или восхищения.",
+    "examples": [
+      "The audience broke into loud applause.",
+      "Her speech was greeted with applause."
+    ]
+  },
+  {
+    "termin": "appliance",
+    "transcription": "[əˈplaɪəns]",
+    "translate": "прибор, устройство",
+    "definition": "Механизм или оборудование, используемое для выполнения конкретной задачи, особенно в быту.",
+    "examples": [
+      "The kitchen is equipped with modern appliances.",
+      "Always unplug electrical appliances after use."
+    ]
+  },
+  {
+    "termin": "apply",
+    "transcription": "[əˈplaɪ]",
+    "translate": "применять; подавать заявление",
+    "definition": "Использовать что-либо на практике; официально обращаться с просьбой или заявлением.",
+    "examples": [
+      "She applied the cream to her skin.",
+      "He applied for a job at the bank."
+    ]
+  },
+  {
+    "termin": "appoint",
+    "transcription": "[əˈpɔɪnt]",
+    "translate": "назначать, утверждать",
+    "definition": "Назначать кого-либо на должность или устанавливать время/дату события.",
+    "examples": [
+      "She was appointed as the new manager.",
+      "The meeting was appointed for Monday."
+    ]
+  },
+  {
+    "termin": "appraise",
+    "transcription": "[əˈpreɪz]",
+    "translate": "оценивать",
+    "definition": "Определять ценность, качество или важность чего-либо, особенно официально или профессионально.",
+    "examples": [
+      "The expert appraised the diamond at $5,000.",
+      "Teachers are appraised annually by the school board."
+    ]
+  },
+  {
+    "termin": "appreciate",
+    "transcription": "[əˈpriːʃieɪt]",
+    "translate": "ценить; осознавать",
+    "definition": "Понимать ценность чего-либо; быть благодарным за что-либо; также — возрастать в цене.",
+    "examples": [
+      "I really appreciate your help.",
+      "His paintings have appreciated in value."
+    ]
+  },
+  {
+    "termin": "apprentice (noun)",
+    "transcription": "[əˈprentɪs]",
+    "translate": "ученик, подмастерье",
+    "definition": "Человек, обучающийся профессии или ремеслу у мастера, обычно в течение определённого времени.",
+    "examples": [
+      "He worked as a carpenter’s apprentice.",
+      "The young apprentice learned quickly."
+    ]
+  },
+  {
+    "termin": "apprentice (verb)",
+    "transcription": "[əˈprentɪs]",
+    "translate": "обучать в качестве ученика",
+    "definition": "Принимать кого-либо в обучение или быть учеником у мастера.",
+    "examples": [
+      "He was apprenticed to a blacksmith.",
+      "Many boys were apprenticed in trade schools."
+    ]
+  },
+  {
+    "termin": "approach (verb)",
+    "transcription": "[əˈproʊtʃ]",
+    "translate": "приближаться; обращаться",
+    "definition": "Двигаться ближе к чему-либо; обращаться к кому-либо за помощью или с предложением; также — начинать рассматривать проблему.",
+    "examples": [
+      "She approached the door quietly.",
+      "We need to approach this problem carefully."
+    ]
+  },
+  {
+    "termin": "approach (noun)",
+    "transcription": "[əˈproʊtʃ]",
+    "translate": "подход, метод; приближение",
+    "definition": "Способ решения задачи или проблема; также — движение к чему-либо ближе.",
+    "examples": [
+      "This teaching approach is very effective.",
+      "Winter is fast approaching."
+    ]
+  },
+  {
+    "termin": "appropriate",
+    "transcription": "[əˈproʊpriət]",
+    "translate": "подходящий, уместный",
+    "definition": "Соответствующий ситуации или условиям; правильный и допустимый.",
+    "examples": [
+      "This movie is not appropriate for children.",
+      "He wore appropriate clothes for the interview."
+    ]
+  },
+  {
+    "termin": "approve",
+    "transcription": "[əˈpruːv]",
+    "translate": "одобрять, утверждать",
+    "definition": "Считать что-то правильным или хорошим; официально разрешать или подтверждать.",
+    "examples": [
+      "The manager approved the new plan.",
+      "Her parents don’t approve of smoking."
+    ]
+  },
+  {
+    "termin": "approve of",
+    "transcription": "[əˈpruːv ʌv]",
+    "translate": "одобрять, относиться с одобрением",
+    "definition": "Считать что-то правильным или допустимым; выражать моральное или личное согласие с действиями, поступками или идеями.",
+    "examples": [
+      "Her parents don’t approve of her new boyfriend.",
+      "Most people approve of the new law."
+    ]
+  },
+  {
+    "termin": "approximate (adjective)",
+    "transcription": "[əˈprɑːksɪmət]",
+    "translate": "приблизительный",
+    "definition": "Не совсем точный, но достаточно близкий к правильному значению или форме.",
+    "examples": [
+      "The approximate cost is $200.",
+      "This figure is only approximate."
+    ]
+  },
+  {
+    "termin": "approximate (verb)",
+    "transcription": "[əˈprɑːksɪmeɪt]",
+    "translate": "приближаться, оценивать приблизительно",
+    "definition": "Быть близким к чему-либо по значению, форме или количеству; вычислять что-либо примерно.",
+    "examples": [
+      "His earnings approximate $50,000 a year.",
+      "The two buildings approximate in size."
+    ]
+  },
+  {
+    "termin": "apron",
+    "transcription": "[ˈeɪprən]",
+    "translate": "фартук; площадка (авиация/театр)",
+    "definition": "Защитная одежда для прикрытия передней части тела во время работы или готовки; также — часть сцены перед занавесом или площадка перед ангарами в аэропорту.",
+    "examples": [
+      "She wore an apron while cooking dinner.",
+      "The plane is waiting on the airport apron."
+    ]
+  },
+  {
+    "termin": "apt",
+    "transcription": "[æpt]",
+    "translate": "склонный; уместный",
+    "definition": "Обладающий естественной способностью или склонностью к чему-либо; также — уместный, подходящий в данной ситуации.",
+    "examples": [
+      "She is apt to forget names.",
+      "That was an apt description of the situation."
+    ]
+  },
+  {
+    "termin": "aquatic",
+    "transcription": "[əˈkwætɪk]",
+    "translate": "водный",
+    "definition": "Относящийся к воде; живущий или происходящий в воде.",
+    "examples": [
+      "Dolphins are aquatic animals.",
+      "He enjoys many aquatic sports."
+    ]
+  },
+  {
+    "termin": "arbitrary",
+    "transcription": "[ˈɑːrbətreri]",
+    "translate": "произвольный, случайный",
+    "definition": "Основанный на личном выборе или случайности, а не на правилах или логике; также может означать деспотичный.",
+    "examples": [
+      "The choice seemed completely arbitrary.",
+      "The dictator made arbitrary decisions."
+    ]
+  },
+  {
+    "termin": "arc",
+    "transcription": "[ɑːrk]",
+    "translate": "дуга",
+    "definition": "Изогнутая линия или часть окружности; также дуга электрическая.",
+    "examples": [
+      "The rainbow formed a beautiful arc in the sky.",
+      "The lamp gives light through an electric arc."
+    ]
+  },
+  {
+    "termin": "arch",
+    "transcription": "[ɑːrtʃ]",
+    "translate": "арка; свод",
+    "definition": "Изогнутая конструкция, поддерживающая или украшающая вход, мост или свод.",
+    "examples": [
+      "They walked under the stone arch.",
+      "The cathedral has a high arch."
+    ]
+  },
+  {
+    "termin": "arch (adjective)",
+    "transcription": "[ɑːrtʃ]",
+    "translate": "лукавый, насмешливый",
+    "definition": "С намёком на игривость или иронию в манере речи или поведении.",
+    "examples": [
+      "She gave him an arch smile.",
+      "His tone was arch and teasing."
+    ]
+  },
+  {
+    "termin": "archive",
+    "transcription": "[ˈɑːrkaɪv]",
+    "translate": "архив",
+    "definition": "Собрание документов, фотографий или записей, хранящихся для исторических или официальных целей.",
+    "examples": [
+      "The library has a large newspaper archive.",
+      "Old letters were found in the family archives."
+    ]
+  },
+  {
+    "termin": "area",
+    "transcription": "[ˈeriə]",
+    "translate": "область; площадь",
+    "definition": "Пространство, участок поверхности; также сфера деятельности или знания.",
+    "examples": [
+      "This area is famous for its vineyards.",
+      "Mathematics is not my strongest area."
+    ]
+  },
+  {
+    "termin": "argue",
+    "transcription": "[ˈɑːrɡjuː]",
+    "translate": "спорить; утверждать",
+    "definition": "Выражать противоположные мнения в споре; также — приводить доводы в пользу чего-либо.",
+    "examples": [
+      "They often argue about politics.",
+      "He argued that the decision was unfair."
+    ]
+  },
+  {
+    "termin": "arise",
+    "transcription": "[əˈraɪz]",
+    "translate": "возникать; вставать",
+    "definition": "Появляться, возникать как результат чего-то; также — вставать с постели (лит./устар.).",
+    "examples": [
+      "A problem arose during the meeting.",
+      "He arose early in the morning."
+    ]
+  },
+  {
+    "termin": "arm",
+    "transcription": "[ɑːrm]",
+    "translate": "рука; рычаг",
+    "definition": "Верхняя конечность человека; также — часть механизма, напоминающая руку.",
+    "examples": [
+      "He broke his left arm.",
+      "The robot’s arm lifted the box."
+    ]
+  },
+  {
+    "termin": "armor",
+    "transcription": "[ˈɑːrmər]",
+    "translate": "доспехи, броня",
+    "definition": "Защитное покрытие, используемое для защиты человека, животного или техники в бою.",
+    "examples": [
+      "The knight wore heavy armor.",
+      "The tank’s armor was impenetrable."
+    ]
+  },
+  {
+    "termin": "arms",
+    "transcription": "[ɑːrmz]",
+    "translate": "оружие",
+    "definition": "Оружие различного вида, особенно военное.",
+    "examples": [
+      "The rebels took up arms against the government.",
+      "The country reduced its stock of nuclear arms."
+    ]
+  },
+  {
+    "termin": "arouse",
+    "transcription": "[əˈraʊz]",
+    "translate": "вызывать, пробуждать",
+    "definition": "Пробуждать чувства, эмоции или интерес; возбуждать внимание или действие.",
+    "examples": [
+      "The speech aroused great enthusiasm.",
+      "The sound of the alarm aroused him from sleep."
+    ]
+  },
+  {
+    "termin": "arrange",
+    "transcription": "[əˈreɪndʒ]",
+    "translate": "организовывать, договариваться; располагать",
+    "definition": "Приводить в порядок, планировать или договариваться о чём-либо; располагать предметы в определённом порядке.",
+    "examples": [
+      "She arranged the books on the shelf.",
+      "They arranged to meet at 6 p.m."
+    ]
+  },
+  {
+    "termin": "array",
+    "transcription": "[əˈreɪ]",
+    "translate": "выстраивать, наряжать",
+    "definition": "Расположить или выстроить в определённом порядке; также — одеть, украсить (литературное употребление).",
+    "examples": [
+      "The army was arrayed for battle.",
+      "She was arrayed in a beautiful gown."
+    ]
+  },
+  {
+    "termin": "array (noun)",
+    "transcription": "[əˈreɪ]",
+    "translate": "ряд, множество; массив",
+    "definition": "Большое и упорядоченное количество чего-либо; в информатике — структура данных (массив).",
+    "examples": [
+      "The shop offers an impressive array of products.",
+      "The data is stored in an array."
+    ]
+  },
+  {
+    "termin": "arrest",
+    "transcription": "[əˈrest]",
+    "translate": "арестовывать; останавливать",
+    "definition": "Задерживать кого-либо по закону; также — останавливать процесс или движение.",
+    "examples": [
+      "The police arrested him for theft.",
+      "The doctor tried to arrest the spread of the disease."
+    ]
+  },
+  {
+    "termin": "arrive",
+    "transcription": "[əˈraɪv]",
+    "translate": "прибывать, приезжать",
+    "definition": "Достигать места назначения; наступать (о событии, времени).",
+    "examples": [
+      "They arrived in Paris at midnight.",
+      "The long-awaited day has finally arrived."
+    ]
+  },
+  {
+    "termin": "arrogant",
+    "transcription": "[ˈærəɡənt]",
+    "translate": "высокомерный",
+    "definition": "Имеющий чрезмерное самомнение; ведущий себя так, будто он лучше других.",
+    "examples": [
+      "He sounded arrogant during the discussion.",
+      "She is too arrogant to admit her mistakes."
+    ]
+  },
+  {
+    "termin": "arrow",
+    "transcription": "[ˈæroʊ]",
+    "translate": "стрела",
+    "definition": "Тонкий заострённый снаряд, выпускаемый из лука; также знак в виде стрелки, указывающий направление.",
+    "examples": [
+      "The hunter shot an arrow at the target.",
+      "Follow the arrows to find the exit."
+    ]
+  },
+  {
+    "termin": "arson",
+    "transcription": "[ˈɑːrsn]",
+    "translate": "поджог",
+    "definition": "Преступное умышленное поджигание зданий, имущества или земли.",
+    "examples": [
+      "The police suspected him of arson.",
+      "The building was destroyed in an arson attack."
+    ]
+  },
+  {
+    "termin": "article",
+    "transcription": "[ˈɑːrtɪkl]",
+    "translate": "статья; предмет; артикль",
+    "definition": "Текст в газете, журнале или интернете; отдельный предмет или вещь; в грамматике — слово, определяющее существительное (a, an, the).",
+    "examples": [
+      "She wrote an article for the newspaper.",
+      "Several household articles were stolen.",
+      "In English, 'a' and 'the' are articles."
+    ]
+  },
+  {
+    "termin": "artificial",
+    "transcription": "[ˌɑːrtɪˈfɪʃl]",
+    "translate": "искусственный",
+    "definition": "Сделанный человеком, а не природой; также может означать неестественный, фальшивый.",
+    "examples": [
+      "The room was lit by artificial light.",
+      "She gave him an artificial smile."
+    ]
+  },
+  {
+    "termin": "as though",
+    "transcription": "[æz ðoʊ]",
+    "translate": "как будто",
+    "definition": "Союз, вводящий сравнение или предположение, часто нереальное.",
+    "examples": [
+      "She looked as though she had seen a ghost.",
+      "He acts as though nothing happened."
+    ]
+  },
+  {
+    "termin": "as well",
+    "transcription": "[æz wɛl]",
+    "translate": "также",
+    "definition": "Используется для добавления информации, синонимично слову *also*.",
+    "examples": [
+      "She speaks Spanish and French as well.",
+      "I’ll have some tea as well."
+    ]
+  },
+  {
+    "termin": "ascend",
+    "transcription": "[əˈsend]",
+    "translate": "подниматься, восходить",
+    "definition": "Двигаться вверх, подниматься на более высокое место или уровень; также в переносном смысле — возвышаться.",
+    "examples": [
+      "They slowly ascended the mountain.",
+      "Smoke ascended into the sky."
+    ]
+  },
+  {
+    "termin": "ascertain",
+    "transcription": "[ˌæsərˈteɪn]",
+    "translate": "выяснять, устанавливать",
+    "definition": "Точно определять или узнавать что-либо с уверенностью.",
+    "examples": [
+      "The police are trying to ascertain the facts.",
+      "He ascertained that she was telling the truth."
+    ]
+  },
+  {
+    "termin": "ash",
+    "transcription": "[æʃ]",
+    "translate": "пепел; ясень",
+    "definition": "Остаток после сгорания вещества; также название лиственного дерева (ясень).",
+    "examples": [
+      "The house was reduced to ashes after the fire.",
+      "An old ash tree grew in the garden."
+    ]
+  },
+  {
+    "termin": "ashamed",
+    "transcription": "[əˈʃeɪmd]",
+    "translate": "пристыженный",
+    "definition": "Чувствующий вину, стыд или неловкость из-за собственных поступков или ситуации.",
+    "examples": [
+      "He felt ashamed of his behavior.",
+      "You should be ashamed to tell such lies."
+    ]
+  },
+  {
+    "termin": "ashtray",
+    "transcription": "[ˈæʃtreɪ]",
+    "translate": "пепельница",
+    "definition": "Сосуд для стряхивания и сбора пепла от сигарет и сигар.",
+    "examples": [
+      "The ashtray was full of cigarette butts.",
+      "He tapped the cigarette into the ashtray."
+    ]
+  },
+  {
+    "termin": "aside",
+    "transcription": "[əˈsaɪd]",
+    "translate": "в сторону",
+    "definition": "В сторону, отдельно от чего-либо или кого-либо.",
+    "examples": [
+      "He pushed the chair aside.",
+      "She stepped aside to let him pass."
+    ]
+  },
+  {
+    "termin": "aside from",
+    "transcription": "[əˈsaɪd frəm]",
+    "translate": "кроме, помимо",
+    "definition": "Используется для добавления или исключения чего-либо; означает «за исключением» или «помимо этого».",
+    "examples": [
+      "Aside from a few minor mistakes, the essay was excellent.",
+      "Aside from his job, he also studies at university."
+    ]
+  },
+  {
+    "termin": "ask around",
+    "transcription": "[æsk əˈraʊnd]",
+    "translate": "поспрашивать, разузнать",
+    "definition": "Спрашивать разных людей, чтобы получить информацию или помощь.",
+    "examples": [
+      "If you don’t know the answer, ask around.",
+      "I’ll ask around to see if anyone has seen your wallet."
+    ]
+  },
+  {
+    "termin": "ask out",
+    "transcription": "[æsk aʊt]",
+    "translate": "приглашать (на свидание)",
+    "definition": "Приглашать кого-либо пойти куда-то, обычно на романтическое свидание.",
+    "examples": [
+      "He finally asked her out to dinner.",
+      "She asked him out to the movies."
+    ]
+  },
+  {
+    "termin": "asleep",
+    "transcription": "[əˈsliːp]",
+    "translate": "спящий",
+    "definition": "Находящийся в состоянии сна; также — онемевший (о части тела).",
+    "examples": [
+      "The child is fast asleep.",
+      "My foot fell asleep during the long meeting."
+    ]
+  },
+  {
+    "termin": "aspire",
+    "transcription": "[əˈspaɪər]",
+    "translate": "стремиться",
+    "definition": "Сильно желать или стремиться достичь чего-либо высокого или значимого.",
+    "examples": [
+      "She aspires to become a doctor.",
+      "Many young people aspire to success."
+    ]
+  },
+  {
+    "termin": "assassin",
+    "transcription": "[əˈsæsɪn]",
+    "translate": "убийца (по политическим мотивам)",
+    "definition": "Человек, который убивает известное или важное лицо, часто по политическим или религиозным причинам.",
+    "examples": [
+      "The assassin shot the president.",
+      "He was killed by a hired assassin."
+    ]
+  },
+  {
+    "termin": "assault",
+    "transcription": "[əˈsɔːlt]",
+    "translate": "нападение, атака",
+    "definition": "Физическая атака на кого-либо; в военном смысле — штурм, наступление.",
+    "examples": [
+      "He was charged with assault after the fight.",
+      "The army launched an assault on the enemy base."
+    ]
+  },
+  {
+    "termin": "assemble",
+    "transcription": "[əˈsembl]",
+    "translate": "собирать; собираться",
+    "definition": "Собирать вместе людей или предметы; также — собираться в одном месте.",
+    "examples": [
+      "The students assembled in the hall.",
+      "They assembled the furniture quickly."
+    ]
+  },
+  {
+    "termin": "assert",
+    "transcription": "[əˈsɜːrt]",
+    "translate": "утверждать; отстаивать",
+    "definition": "Заявлять что-либо уверенно и решительно; также — защищать свои права или мнение.",
+    "examples": [
+      "She asserted that she was innocent.",
+      "He asserted his right to speak freely."
+    ]
+  },
+  {
+    "termin": "assess",
+    "transcription": "[əˈses]",
+    "translate": "оценивать",
+    "definition": "Определять ценность, качество, количество или важность чего-либо.",
+    "examples": [
+      "The teacher assessed the students’ work.",
+      "The damage was assessed at $10,000."
+    ]
+  },
+  {
+    "termin": "asset",
+    "transcription": "[ˈæset]",
+    "translate": "актив; ценное качество",
+    "definition": "Полезное или ценное имущество, человек или качество; в бизнесе — материальные и нематериальные активы.",
+    "examples": [
+      "Her communication skills are a real asset to the team.",
+      "The company’s assets include buildings and land."
+    ]
+  },
+  {
+    "termin": "assign",
+    "transcription": "[əˈsaɪn]",
+    "translate": "назначать, поручать",
+    "definition": "Определять задачу, роль или обязанность кому-либо; официально закреплять что-то за кем-то.",
+    "examples": [
+      "The teacher assigned homework to the students.",
+      "Each member was assigned a specific role."
+    ]
+  },
+  {
+    "termin": "assimilate",
+    "transcription": "[əˈsɪməleɪt]",
+    "translate": "усваивать, приспосабливаться",
+    "definition": "Поглощать и усваивать (знания, информацию, культуру); становиться частью новой среды.",
+    "examples": [
+      "Immigrants often find it hard to assimilate into a new culture.",
+      "He quickly assimilated the new information."
+    ]
+  },
+  {
+    "termin": "assist",
+    "transcription": "[əˈsɪst]",
+    "translate": "помогать, содействовать",
+    "definition": "Давать помощь или поддержку в выполнении задачи или действия.",
+    "examples": [
+      "The nurse assisted the doctor during the operation.",
+      "He assisted me in carrying the boxes."
+    ]
+  },
+  {
+    "termin": "associate",
+    "transcription": "[əˈsoʊsieɪt]",
+    "translate": "ассоциировать, связывать",
+    "definition": "Связывать в уме одно с другим; также — общаться с кем-либо.",
+    "examples": [
+      "I always associate summer with the smell of the sea.",
+      "She refused to associate with dishonest people."
+    ]
+  },
+  {
+    "termin": "associate (noun)",
+    "transcription": "[əˈsoʊsiət]",
+    "translate": "партнёр, коллега",
+    "definition": "Человек, связанный с другим по работе, бизнесу или дружбе.",
+    "examples": [
+      "He is a business associate of mine.",
+      "She and her associates founded a new company."
+    ]
+  },
+  {
+    "termin": "assume",
+    "transcription": "[əˈsuːm]",
+    "translate": "предполагать; брать на себя",
+    "definition": "Считать что-либо истинным без доказательств; также — принимать на себя обязанность или роль.",
+    "examples": [
+      "I assume you’ve finished your work.",
+      "He assumed responsibility for the mistake."
+    ]
+  },
+  {
+    "termin": "assure",
+    "transcription": "[əˈʃʊr]",
+    "translate": "уверять, гарантировать",
+    "definition": "Говорить что-либо с уверенностью, чтобы успокоить; также — гарантировать выполнение.",
+    "examples": [
+      "I assure you that everything will be fine.",
+      "She assured him of her support."
+    ]
+  },
+  {
+    "termin": "astonish",
+    "transcription": "[əˈstɑːnɪʃ]",
+    "translate": "изумлять, поражать",
+    "definition": "Вызывать сильное удивление у кого-либо, особенно неожиданным образом.",
+    "examples": [
+      "Her talent never ceases to astonish me.",
+      "The magician astonished the audience."
+    ]
+  },
+  {
+    "termin": "astound",
+    "transcription": "[əˈstaʊnd]",
+    "translate": "потрясать, изумлять",
+    "definition": "Приводить кого-либо в состояние изумления или потрясения.",
+    "examples": [
+      "The news astounded everyone in the office.",
+      "She was astounded by the sudden change."
+    ]
+  },
+  {
+    "termin": "asylum",
+    "transcription": "[əˈsaɪləm]",
+    "translate": "убежище; приют; психиатрическая больница",
+    "definition": "Защита или убежище, предоставляемое человеку (например, политическое убежище); также учреждение для содержания людей с психическими заболеваниями (устаревшее значение).",
+    "examples": [
+      "The refugees were granted asylum in the country.",
+      "In the past, many mentally ill people lived in asylums."
+    ]
+  },
+  {
+    "termin": "at all",
+    "transcription": "[ət ɔːl]",
+    "translate": "совсем; вовсе",
+    "definition": "Используется в отрицательных и вопросительных предложениях для усиления значения, указывая на полное отсутствие чего-либо.",
+    "examples": [
+      "He doesn’t care at all.",
+      "Did you understand the text at all?"
+    ]
+  },
+  {
+    "termin": "at first",
+    "transcription": "[ət fɜːrst]",
+    "translate": "сначала",
+    "definition": "Используется для обозначения начала ситуации или периода времени.",
+    "examples": [
+      "At first I didn’t like the idea, but later I agreed.",
+      "She was nervous at first, but soon relaxed."
+    ]
+  },
+  {
+    "termin": "at last",
+    "transcription": "[ət læst]",
+    "translate": "наконец",
+    "definition": "Указывает на то, что что-то произошло после долгого ожидания.",
+    "examples": [
+      "At last, the train arrived.",
+      "He has finished the project at last."
+    ]
+  },
+  {
+    "termin": "at least",
+    "transcription": "[ət liːst]",
+    "translate": "по крайней мере",
+    "definition": "Используется для обозначения минимального количества или для смягчения утверждения.",
+    "examples": [
+      "At least we tried our best.",
+      "You should sleep at least eight hours."
+    ]
+  },
+  {
+    "termin": "at odds with",
+    "transcription": "[ət ɑːdz wɪð]",
+    "translate": "в противоречии, в конфликте",
+    "definition": "Быть в несогласии или конфликте с кем-либо или чем-либо.",
+    "examples": [
+      "He is at odds with his boss about the new project.",
+      "Their statements are at odds with the facts."
+    ]
+  },
+  {
+    "termin": "at once",
+    "transcription": "[ət wʌns]",
+    "translate": "немедленно; одновременно",
+    "definition": "Сразу же, без задержки; также может означать «одновременно».",
+    "examples": [
+      "Come here at once!",
+      "She can sing and play the piano at once."
+    ]
+  },
+  {
+    "termin": "at the moment",
+    "transcription": "[ət ðə ˈmoʊmənt]",
+    "translate": "в данный момент",
+    "definition": "Используется для обозначения текущего времени или ситуации.",
+    "examples": [
+      "I’m busy at the moment.",
+      "He isn’t here at the moment."
+    ]
+  },
+  {
+    "termin": "atop",
+    "transcription": "[əˈtɑːp]",
+    "translate": "наверху, поверх",
+    "definition": "Находящийся сверху или поверх чего-либо.",
+    "examples": [
+      "A flag was placed atop the building.",
+      "She sat atop the hill and watched the sunset."
+    ]
+  },
+  {
+    "termin": "atrocity",
+    "transcription": "[əˈtrɑːsəti]",
+    "translate": "зверство, жестокость",
+    "definition": "Крайне жестокое и бесчеловечное действие, часто связанное с войной или преступлением.",
+    "examples": [
+      "They witnessed the atrocities of war.",
+      "The dictator was accused of committing atrocities."
+    ]
+  },
+  {
+    "termin": "attach",
+    "transcription": "[əˈtætʃ]",
+    "translate": "прикреплять; придавать значение",
+    "definition": "Присоединять одну вещь к другой; также — придавать важность чему-либо.",
+    "examples": [
+      "Please attach the file to your email.",
+      "She attached great importance to education."
+    ]
+  },
+  {
+    "termin": "attack",
+    "transcription": "[əˈtæk]",
+    "translate": "атаковать, нападать",
+    "definition": "Совершать агрессивное действие против кого-либо или чего-либо, с целью нанести вред или разрушение.",
+    "examples": [
+      "The army attacked the enemy at dawn.",
+      "He was attacked by a dog."
+    ]
+  },
+  {
+    "termin": "attain",
+    "transcription": "[əˈteɪn]",
+    "translate": "достигать",
+    "definition": "Достигать цели, уровня или состояния, часто прилагая усилия.",
+    "examples": [
+      "She attained her dream of becoming a doctor.",
+      "He attained a high level of skill."
+    ]
+  },
+  {
+    "termin": "attempt",
+    "transcription": "[əˈtempt]",
+    "translate": "пытаться. попытка",
+    "definition": "Стараться сделать что-либо, особенно трудное или рискованное.",
+    "examples": [
+      "He attempted to climb the mountain.",
+      "They attempted to solve the problem together."
+    ]
+  },
+  {
+    "termin": "attend",
+    "transcription": "[əˈtend]",
+    "translate": "посещать; уделять внимание",
+    "definition": "Быть присутствующим на мероприятии; заботиться о чём-либо или уделять внимание.",
+    "examples": [
+      "She attended the meeting yesterday.",
+      "You should attend to your studies more carefully."
+    ]
+  },
+  {
+    "termin": "attic",
+    "transcription": "[ˈætɪk]",
+    "translate": "чердак",
+    "definition": "Помещение или пространство под крышей дома, обычно используемое для хранения вещей.",
+    "examples": [
+      "Old toys were found in the attic.",
+      "He turned the attic into a study room."
+    ]
+  },
+  {
+    "termin": "attitude",
+    "transcription": "[ˈætɪtuːd]",
+    "translate": "отношение; позиция",
+    "definition": "Способ мышления или чувства по поводу кого-либо или чего-либо; также поза или манера держаться.",
+    "examples": [
+      "He has a positive attitude towards life.",
+      "Her attitude during the meeting was very professional."
+    ]
+  },
+  {
+    "termin": "attorney",
+    "transcription": "[əˈtɜːrni]",
+    "translate": "адвокат, юрист",
+    "definition": "Лицо, имеющее право представлять клиентов в суде и заниматься юридическими делами (в США — общее название юристов).",
+    "examples": [
+      "She hired an attorney to handle her case.",
+      "The attorney advised him not to speak to the press."
+    ]
+  },
+  {
+    "termin": "attract",
+    "transcription": "[əˈtrækt]",
+    "translate": "привлекать",
+    "definition": "Притягивать внимание, интерес или физическую силу (например, магнит).",
+    "examples": [
+      "The park attracts many visitors in summer.",
+      "Flowers attract bees."
+    ]
+  },
+  {
+    "termin": "attribute",
+    "transcription": "[ˈætrɪbjuːt]",
+    "translate": "черта, свойство",
+    "definition": "Характерная особенность или качество кого-либо или чего-либо.",
+    "examples": [
+      "Patience is an important attribute of a good teacher.",
+      "Honesty is her best attribute."
+    ]
+  },
+  {
+    "termin": "audible",
+    "transcription": "[ˈɔːdəbl]",
+    "translate": "слышимый",
+    "definition": "Такой, который можно услышать; воспринимаемый ухом.",
+    "examples": [
+      "Her voice was barely audible above the noise.",
+      "The signal is clearly audible at this frequency."
+    ]
+  },
+  {
+    "termin": "audience",
+    "transcription": "[ˈɔːdiəns]",
+    "translate": "аудитория, зрители",
+    "definition": "Группа людей, собравшихся для прослушивания или просмотра спектакля, выступления, передачи; также круг читателей или слушателей.",
+    "examples": [
+      "The audience applauded loudly after the concert.",
+      "His book reached a wide audience."
+    ]
+  },
+  {
+    "termin": "augment",
+    "transcription": "[ɔːɡˈment]",
+    "translate": "увеличивать, усиливать",
+    "definition": "Делать что-либо больше по количеству, размеру или значению; усиливать, расширять.",
+    "examples": [
+      "The company plans to augment its workforce.",
+      "Regular exercise can augment your strength."
+    ]
+  },
+  {
+    "termin": "aunt",
+    "transcription": "[ænt] / [ɑːnt]",
+    "translate": "тётя",
+    "definition": "Сестра отца или матери, либо жена дяди.",
+    "examples": [
+      "My aunt lives in London.",
+      "She spent the summer with her aunt and uncle."
+    ]
+  },
+  {
+    "termin": "authorities",
+    "transcription": "[əˈθɔːrətiz]",
+    "translate": "власти",
+    "definition": "Люди или организации, обладающие официальной властью или ответственностью.",
+    "examples": [
+      "The authorities are investigating the case.",
+      "Local authorities decided to close the road."
+    ]
+  },
+  {
+    "termin": "authority",
+    "transcription": "[əˈθɔːrəti]",
+    "translate": "власть; авторитет",
+    "definition": "Право управлять или влиять на других; также признанный эксперт в какой-либо области.",
+    "examples": [
+      "The teacher has authority over the students.",
+      "She is an authority on medieval history."
+    ]
+  },
+  {
+    "termin": "authorize",
+    "transcription": "[ˈɔːθəraɪz]",
+    "translate": "разрешать, уполномочивать",
+    "definition": "Давать официальное разрешение или право кому-либо что-то сделать.",
+    "examples": [
+      "Only the manager can authorize refunds.",
+      "The government authorized the use of new technology."
+    ]
+  },
+  {
+    "termin": "available",
+    "transcription": "[əˈveɪləbl]",
+    "translate": "доступный, в наличии",
+    "definition": "Такой, которым можно воспользоваться или который свободен для использования.",
+    "examples": [
+      "The book is available in the library.",
+      "I’m not available tomorrow evening."
+    ]
+  },
+  {
+    "termin": "avalanche",
+    "transcription": "[ˈævəlæntʃ]",
+    "translate": "лавина",
+    "definition": "Масса снега, льда или камней, обрушивающаяся вниз по склону; также переносно — огромное количество чего-либо.",
+    "examples": [
+      "The climbers were caught in an avalanche.",
+      "She received an avalanche of letters after the show."
+    ]
+  },
+  {
+    "termin": "average",
+    "transcription": "[ˈævərɪdʒ]",
+    "translate": "средний, обычный",
+    "definition": "Типичный, не особенно высокий или низкий по уровню; обычный.",
+    "examples": [
+      "He has an average salary.",
+      "It was just an average day."
+    ]
+  },
+  {
+    "termin": "avert",
+    "transcription": "[əˈvɜːrt]",
+    "translate": "предотвращать; отворачивать",
+    "definition": "Избегать или предотвращать что-либо неприятное; также — отводить взгляд.",
+    "examples": [
+      "They tried to avert a crisis.",
+      "She averted her eyes from the accident."
+    ]
+  },
+  {
+    "termin": "avid",
+    "transcription": "[ˈævɪd]",
+    "translate": "страстный, заядлый",
+    "definition": "Очень заинтересованный или увлечённый чем-либо; жадно стремящийся к чему-то.",
+    "examples": [
+      "He is an avid reader of science fiction.",
+      "She is an avid supporter of the team."
+    ]
+  },
+  {
+    "termin": "avoid",
+    "transcription": "[əˈvɔɪd]",
+    "translate": "избегать",
+    "definition": "Стараться не встречаться с чем-либо или не допускать чего-либо.",
+    "examples": [
+      "You should avoid fatty foods.",
+      "He avoided answering my question."
+    ]
+  },
+  {
+    "termin": "await",
+    "transcription": "[əˈweɪt]",
+    "translate": "ожидать",
+    "definition": "Ждать чего-либо или кого-либо; использоваться в формальном стиле.",
+    "examples": [
+      "A warm welcome awaits you at the hotel.",
+      "We are awaiting the results of the test."
+    ]
+  },
+  {
+    "termin": "awake",
+    "transcription": "[əˈweɪk]",
+    "translate": "просыпаться; будить",
+    "definition": "Переставать спать; также приводить кого-либо в состояние бодрствования.",
+    "examples": [
+      "She awoke at dawn.",
+      "Noise awoke him in the middle of the night."
+    ]
+  },
+  {
+    "termin": "award",
+    "transcription": "[əˈwɔːrd]",
+    "translate": "награждать, присуждать",
+    "definition": "Официально давать приз, премию или право за достижение или заслуги.",
+    "examples": [
+      "She was awarded a scholarship.",
+      "The jury awarded him first prize."
+    ]
+  },
+  {
+    "termin": "award (noun)",
+    "transcription": "[əˈwɔːrd]",
+    "translate": "награда, премия",
+    "definition": "Приз или официальное признание, данное за успехи или достижения.",
+    "examples": [
+      "He received an award for bravery.",
+      "The film won several awards."
+    ]
+  },
+  {
+    "termin": "aware",
+    "transcription": "[əˈwer]",
+    "translate": "осведомлённый, знающий",
+    "definition": "Понимающий или знающий о существовании чего-либо.",
+    "examples": [
+      "I wasn’t aware of the problem.",
+      "She is fully aware of the risks."
+    ]
+  },
+  {
+    "termin": "awe",
+    "transcription": "[ɔː]",
+    "translate": "трепет, благоговение",
+    "definition": "Чувство глубокого уважения, смешанного с удивлением или страхом.",
+    "examples": [
+      "The children stared in awe at the fireworks.",
+      "She gazed at the mountains in awe."
+    ]
+  },
+  {
+    "termin": "awesome",
+    "transcription": "[ˈɔːsəm]",
+    "translate": "потрясающий, впечатляющий",
+    "definition": "Вызывающий сильное восхищение, восторг или уважение; в разговорной речи — «крутой».",
+    "examples": [
+      "The view from the mountain was awesome.",
+      "You did an awesome job!"
+    ]
+  },
+  {
+    "termin": "awful",
+    "transcription": "[ˈɔːfl]",
+    "translate": "ужасный; очень плохой",
+    "definition": "Крайне неприятный, вызывающий сильное недовольство или дискомфорт; в старом значении — «внушающий трепет» (сейчас редко).",
+    "examples": [
+      "The weather was awful yesterday.",
+      "He made an awful mistake."
+    ]
+  },
+  {
+    "termin": "awhile",
+    "transcription": "[əˈwaɪl]",
+    "translate": "некоторое время",
+    "definition": "Короткий промежуток времени; обычно употребляется без предлога (*stay awhile*).",
+    "examples": [
+      "Please stay awhile and talk to us.",
+      "He rested awhile before continuing the journey."
+    ]
+  },
+  {
+    "termin": "awkward",
+    "transcription": "[ˈɔːkwərd]",
+    "translate": "неуклюжий; неловкий",
+    "definition": "Неудобный или затруднительный; характеризующийся отсутствием ловкости или вызывающий чувство неловкости.",
+    "examples": [
+      "He felt awkward during the interview.",
+      "The box was large and awkward to carry."
+    ]
+  },
+  {
+    "termin": "axe",
+    "transcription": "[æks]",
+    "translate": "топор",
+    "definition": "Ручной инструмент с металлическим лезвием для рубки дерева; также символическое значение — увольнение или сокращение.",
+    "examples": [
+      "He cut the wood with an axe.",
+      "Several jobs are facing the axe this year."
+    ]
+  },
+  {
+    "termin": "axis",
+    "transcription": "[ˈæksɪs]",
+    "translate": "ось",
+    "definition": "Прямая линия, вокруг которой вращается объект; также — основа системы или направления. В истории — союз государств (Axis powers).",
+    "examples": [
+      "The Earth rotates on its axis.",
+      "The alliance formed the Axis in World War II."
+    ]
   }
 ]
