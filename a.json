@@ -55,17 +55,6 @@
     ]
   },
   {
-    "number": 4,
-    "termin": "abandoning",
-    "transcription": "[əˈbændənɪŋ]",
-    "translate": "оставляющий, отказывающийся",
-    "definition": "форма глагола abandon, обозначающая процесс оставления или отказа от чего-либо",
-    "examples": [
-      "He is abandoning his old habits.",
-      "They are abandoning the plan step by step."
-    ]
-  },
-  {
     "number": 5,
     "termin": "abate",
     "transcription": "[əˈbeɪt]",
@@ -85,17 +74,6 @@
     "examples": [
       "The law requires noise abatement in the city.",
       "There was a gradual abatement of her fears."
-    ]
-  },
-  {
-    "number": 7,
-    "termin": "abating",
-    "transcription": "[əˈbeɪtɪŋ]",
-    "translate": "уменьшающийся, ослабевающий",
-    "definition": "форма глагола abate, обозначающая процесс уменьшения чего-либо",
-    "examples": [
-      "The abating wind brought relief.",
-      "He watched the abating storm from the window."
     ]
   },
   {
@@ -371,17 +349,6 @@
     "examples": [
       "They made an abortive attempt to negotiate.",
       "His efforts proved abortive."
-    ]
-  },
-  {
-    "number": 27,
-    "termin": "aborted",
-    "transcription": "[əˈbɔːrtɪd]",
-    "translate": "прерванный",
-    "definition": "остановленный или завершённый раньше времени",
-    "examples": [
-      "An aborted flight caused delays.",
-      "The experiment was aborted halfway through."
     ]
   },
   {
@@ -737,17 +704,6 @@
     ]
   },
   {
-    "number": 48,
-    "termin": "absorbed",
-    "transcription": "[əbˈzɔːrbd]",
-    "translate": "поглощённый, увлеченный",
-    "definition": "полностью сосредоточенный на чём-то, не замечающий остального",
-    "examples": [
-      "She was deeply absorbed in her thoughts.",
-      "He is always absorbed in his work."
-    ]
-  },
-  {
     "number": 49,
     "termin": "absorbent",
     "transcription": "[əbˈzɔːrbənt]",
@@ -946,17 +902,6 @@
     ]
   },
   {
-    "number": 61,
-    "termin": "unacceptable",
-    "transcription": "[ˌʌnəkˈseptəbl]",
-    "translate": "неприемлемый",
-    "definition": "такой, который нельзя принять или одобрить",
-    "examples": [
-      "His behavior was totally unacceptable.",
-      "The proposal is unacceptable for us."
-    ]
-  },
-  {
     "number": 62,
     "termin": "accepted",
     "transcription": "[əkˈseptɪd]",
@@ -1031,17 +976,6 @@
     "examples": [
       "The accessibility of education is very important.",
       "They improved the building’s accessibility for disabled people."
-    ]
-  },
-  {
-    "number": 68,
-    "termin": "inaccessible",
-    "transcription": "[ˌɪnækˈsesəbl]",
-    "translate": "недоступный",
-    "definition": "такой, до которого невозможно добраться или который невозможно использовать/понять",
-    "examples": [
-      "The remote island is almost inaccessible.",
-      "The text is inaccessible to most readers."
     ]
   },
   {
@@ -1185,17 +1119,6 @@
     "examples": [
       "The film received worldwide acclaim.",
       "She won critical acclaim for her novel."
-    ]
-  },
-  {
-    "number": 78,
-    "termin": "acclaimed",
-    "transcription": "[əˈkleɪmd]",
-    "translate": "признанный",
-    "definition": "получивший широкое одобрение или похвалу",
-    "examples": [
-      "He is an acclaimed actor.",
-      "The museum presented an acclaimed exhibition."
     ]
   },
   {
@@ -1377,7 +1300,7 @@
   },
   {
     "number": 91,
-    "termin": "of one’s own accord",
+    "termin": "of one's own accord",
     "transcription": "[əv wʌnz oʊn əˈkɔːrd]",
     "translate": "по собственной воле",
     "definition": "сделать что-то добровольно, без принуждения",
@@ -1785,16 +1708,6 @@
     "examples": [
       "I have some acquaintance with Spanish culture.",
       "She is just a casual acquaintance, not a close friend."
-    ]
-  },
-  {
-    "termin": "a passing acquaintance",
-    "transcription": "[ə ˈpæsɪŋ əˈkweɪntəns]",
-    "translate": "поверхностное знакомство",
-    "definition": "ситуация, когда ты знаешь кого-то или что-то лишь немного, без глубокого знания или близких отношений",
-    "examples": [
-      "I have only a passing acquaintance with French literature.",
-      "She is just a passing acquaintance, not a close friend."
     ]
   },
   {
@@ -2559,7 +2472,7 @@
   },
   {
     "termin": "agile",
-    "transcription": "[ˈædʒəl] или [ˈædʒaɪl]",
+    "transcription": "[ˈædʒaɪl]",
     "translate": "проворный, гибкий",
     "definition": "Быстро и легко двигающийся; также о мышлении — способный быстро и легко адаптироваться.",
     "examples": [
