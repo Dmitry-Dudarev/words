@@ -407,28 +407,6 @@
     ]
   },
   {
-    "number": 33,
-    "termin": "how about ... ?",
-    "transcription": "[haʊ əˈbaʊt]",
-    "translate": "как насчёт ... ?",
-    "definition": "используется, чтобы предложить идею, действие или спросить мнение",
-    "examples": [
-      "How about going to the cinema tonight?",
-      "How about some coffee?"
-    ]
-  },
-  {
-    "number": 34,
-    "termin": "what about ... ?",
-    "transcription": "[wʌt əˈbaʊt]",
-    "translate": "а что насчёт ... ?",
-    "definition": "используется, чтобы обратить внимание на что-то или кого-то; спросить мнение или напомнить о чём-то",
-    "examples": [
-      "We can go to the park. What about John?",
-      "What about your homework?"
-    ]
-  },
-  {
     "number": 35,
     "termin": "about time",
     "transcription": "[əˈbaʊt taɪm]",
@@ -452,7 +430,7 @@
   },
   {
     "number": 37,
-    "termin": "go about (doing something)",
+    "termin": "go about",
     "transcription": "[ɡoʊ əˈbaʊt]",
     "translate": "приступать к, заниматься",
     "definition": "начинать делать что-то или выполнять задачу обычным образом",
@@ -2043,7 +2021,7 @@
     ]
   },
   {
-    "termin": "aerial (adjective)",
+    "termin": "aerial",
     "transcription": "[ˈeriəl]",
     "translate": "воздушный",
     "definition": "Относящийся к воздуху или происходящий в воздухе.",
@@ -2053,7 +2031,7 @@
     ]
   },
   {
-    "termin": "aerial (noun)",
+    "termin": "aerial",
     "transcription": "[ˈeriəl]",
     "translate": "антенна",
     "definition": "Устройство для приёма или передачи радиоволн.",
@@ -2073,7 +2051,7 @@
     ]
   },
   {
-    "termin": "affect (verb)",
+    "termin": "affect",
     "transcription": "[əˈfekt]",
     "translate": "влиять",
     "definition": "Оказывать воздействие или влияние на кого-либо или что-либо.",
@@ -2083,7 +2061,7 @@
     ]
   },
   {
-    "termin": "affect (noun, formal/psychology)",
+    "termin": "affect",
     "transcription": "[ˈæfekt]",
     "translate": "эмоция, чувство",
     "definition": "Эмоциональное состояние или выражение эмоций (термин, часто используемый в психологии).",
@@ -2103,7 +2081,7 @@
     ]
   },
   {
-    "termin": "affiliate (verb)",
+    "termin": "affiliate",
     "transcription": "[əˈfɪlieɪt]",
     "translate": "присоединять(ся)",
     "definition": "Присоединять организацию или человека к более крупной группе или официально связывать с ней.",
@@ -2113,7 +2091,7 @@
     ]
   },
   {
-    "termin": "affiliate (noun)",
+    "termin": "affiliate",
     "transcription": "[əˈfɪliət]",
     "translate": "филиал, партнёр",
     "definition": "Организация, связанная с более крупной организацией; также человек или компания, сотрудничающая в бизнесе.",
@@ -2203,7 +2181,7 @@
     ]
   },
   {
-    "termin": "age (noun)",
+    "termin": "age",
     "transcription": "[eɪdʒ]",
     "translate": "возраст",
     "definition": "Количество лет, прожитых человеком, животным или существованием предмета.",
@@ -2213,7 +2191,7 @@
     ]
   },
   {
-    "termin": "age (verb)",
+    "termin": "age",
     "transcription": "[eɪdʒ]",
     "translate": "стареть",
     "definition": "Становиться старше или вызывать ощущение старения.",
@@ -2243,7 +2221,7 @@
     ]
   },
   {
-    "termin": "aggregate (noun)",
+    "termin": "aggregate",
     "transcription": "[ˈæɡrɪɡət]",
     "translate": "совокупность, сумма",
     "definition": "Общее количество или целое, состоящее из множества отдельных частей.",
@@ -2253,7 +2231,7 @@
     ]
   },
   {
-    "termin": "aggregate (verb)",
+    "termin": "aggregate",
     "transcription": "[ˈæɡrɪɡeɪt]",
     "translate": "собрать, объединить",
     "definition": "Собирать вместе отдельные элементы в единое целое.",
@@ -2263,7 +2241,7 @@
     ]
   },
   {
-    "termin": "aggregate (adjective)",
+    "termin": "aggregate",
     "transcription": "[ˈæɡrɪɡət]",
     "translate": "совокупный, общий",
     "definition": "Обозначающий общую сумму или итог, образованный объединением частей.",
@@ -2333,7 +2311,7 @@
     ]
   },
   {
-    "termin": "aid (noun)",
+    "termin": "aid",
     "transcription": "[eɪd]",
     "translate": "помощь",
     "definition": "Действие или средства, предоставленные для облегчения трудной ситуации или оказания поддержки.",
@@ -2343,7 +2321,7 @@
     ]
   },
   {
-    "termin": "aid (verb)",
+    "termin": "aid",
     "transcription": "[eɪd]",
     "translate": "помогать",
     "definition": "Оказывать помощь или поддержку кому-либо или чему-либо.",
@@ -2363,7 +2341,7 @@
     ]
   },
   {
-    "termin": "aim (noun)",
+    "termin": "aim",
     "transcription": "[eɪm]",
     "translate": "цель",
     "definition": "То, чего человек хочет достичь; намерение или задача.",
@@ -2373,7 +2351,7 @@
     ]
   },
   {
-    "termin": "aim (verb)",
+    "termin": "aim",
     "transcription": "[eɪm]",
     "translate": "целиться; стремиться",
     "definition": "Направлять оружие, предмет или действие на что-либо; также — стремиться достичь чего-либо.",
@@ -2383,7 +2361,7 @@
     ]
   },
   {
-    "termin": "air (noun)",
+    "termin": "air",
     "transcription": "[er]",
     "translate": "воздух; атмосфера",
     "definition": "Газовая оболочка Земли, которой дышат живые существа; также может означать общую атмосферу, обстановку.",
@@ -2393,7 +2371,7 @@
     ]
   },
   {
-    "termin": "air (verb)",
+    "termin": "air",
     "transcription": "[er]",
     "translate": "проветривать; транслировать",
     "definition": "Давать чему-либо доступ к воздуху; также — показывать или передавать по радио и телевидению.",
@@ -2433,7 +2411,7 @@
     ]
   },
   {
-    "termin": "aisle (noun)",
+    "termin": "aisle",
     "transcription": "[aɪl]",
     "translate": "проход",
     "definition": "Проход между рядами сидений, полок или в церкви.",
@@ -2463,7 +2441,7 @@
     ]
   },
   {
-    "termin": "alarm (verb)",
+    "termin": "alarm",
     "transcription": "[əˈlɑːrm]",
     "translate": "пугать, тревожить",
     "definition": "Вызывать у кого-либо страх или беспокойство.",
@@ -2503,7 +2481,7 @@
     ]
   },
   {
-    "termin": "alert (noun)",
+    "termin": "alert",
     "transcription": "[əˈlɜːrt]",
     "translate": "тревога, предупреждение",
     "definition": "Сигнал или сообщение, предупреждающее об опасности или необходимости быть осторожным.",
@@ -2513,7 +2491,7 @@
     ]
   },
   {
-    "termin": "alien (adjective)",
+    "termin": "alien",
     "transcription": "[ˈeɪliən]",
     "translate": "чужой, инопланетный",
     "definition": "Принадлежащий к другой стране, культуре или миру; также — относящийся к внеземным существам.",
@@ -2523,7 +2501,7 @@
     ]
   },
   {
-    "termin": "alien (noun)",
+    "termin": "alien",
     "transcription": "[ˈeɪliən]",
     "translate": "иностранец; пришелец",
     "definition": "Лицо, не являющееся гражданином данной страны; также воображаемое или реальное существо с другой планеты.",
@@ -2673,7 +2651,7 @@
     ]
   },
   {
-    "termin": "allure (verb)",
+    "termin": "allure",
     "transcription": "[əˈlʊr]",
     "translate": "очаровывать, привлекать",
     "definition": "Сильно привлекать кого-либо; манить своим очарованием или выгодой.",
@@ -2693,7 +2671,7 @@
     ]
   },
   {
-    "termin": "ally (verb)",
+    "termin": "ally",
     "transcription": "[əˈlaɪ]",
     "translate": "объединяться, вступать в союз",
     "definition": "Соединяться с кем-либо ради общей цели или интереса.",
@@ -2763,7 +2741,7 @@
     ]
   },
   {
-    "termin": "alternate (adjective)",
+    "termin": "alternate",
     "transcription": "[ˈɔːltərnət]",
     "translate": "чередующийся, запасной",
     "definition": "Происходящий через один или поочерёдно; также — служащий заменой или запасом.",
@@ -2873,7 +2851,7 @@
     ]
   },
   {
-    "termin": "ambush (verb)",
+    "termin": "ambush",
     "transcription": "[ˈæmbʊʃ]",
     "translate": "устраивать засаду",
     "definition": "Нападать внезапно из укрытия.",
@@ -2983,7 +2961,7 @@
     ]
   },
   {
-    "termin": "anchor (verb)",
+    "termin": "anchor",
     "transcription": "[ˈæŋkər]",
     "translate": "бросать якорь; закреплять",
     "definition": "Удерживать на месте, фиксировать; в переносном смысле — обеспечивать стабильность.",
@@ -3063,7 +3041,7 @@
     ]
   },
   {
-    "termin": "animate (adjective)",
+    "termin": "animate",
     "transcription": "[ˈænɪmət]",
     "translate": "живой, одушевлённый",
     "definition": "Живой, обладающий жизнью; противоположность неживому или неодушевлённому.",
@@ -3263,7 +3241,7 @@
     ]
   },
   {
-    "termin": "ape (verb)",
+    "termin": "ape",
     "transcription": "[eɪp]",
     "translate": "передразнивать, подражать",
     "definition": "Подражать кому-либо, часто неуклюже или глупо.",
@@ -3394,7 +3372,7 @@
     ]
   },
   {
-    "termin": "apprentice (noun)",
+    "termin": "apprentice",
     "transcription": "[əˈprentɪs]",
     "translate": "ученик, подмастерье",
     "definition": "Человек, обучающийся профессии или ремеслу у мастера, обычно в течение определённого времени.",
@@ -3404,7 +3382,7 @@
     ]
   },
   {
-    "termin": "apprentice (verb)",
+    "termin": "apprentice",
     "transcription": "[əˈprentɪs]",
     "translate": "обучать в качестве ученика",
     "definition": "Принимать кого-либо в обучение или быть учеником у мастера.",
@@ -3414,7 +3392,7 @@
     ]
   },
   {
-    "termin": "approach (verb)",
+    "termin": "approach",
     "transcription": "[əˈproʊtʃ]",
     "translate": "приближаться; обращаться",
     "definition": "Двигаться ближе к чему-либо; обращаться к кому-либо за помощью или с предложением; также — начинать рассматривать проблему.",
@@ -3424,7 +3402,7 @@
     ]
   },
   {
-    "termin": "approach (noun)",
+    "termin": "approach",
     "transcription": "[əˈproʊtʃ]",
     "translate": "подход, метод; приближение",
     "definition": "Способ решения задачи или проблема; также — движение к чему-либо ближе.",
@@ -3464,7 +3442,7 @@
     ]
   },
   {
-    "termin": "approximate (adjective)",
+    "termin": "approximate",
     "transcription": "[əˈprɑːksɪmət]",
     "translate": "приблизительный",
     "definition": "Не совсем точный, но достаточно близкий к правильному значению или форме.",
@@ -3474,7 +3452,7 @@
     ]
   },
   {
-    "termin": "approximate (verb)",
+    "termin": "approximate",
     "transcription": "[əˈprɑːksɪmeɪt]",
     "translate": "приближаться, оценивать приблизительно",
     "definition": "Быть близким к чему-либо по значению, форме или количеству; вычислять что-либо примерно.",
@@ -3544,7 +3522,7 @@
     ]
   },
   {
-    "termin": "arch (adjective)",
+    "termin": "arch",
     "transcription": "[ɑːrtʃ]",
     "translate": "лукавый, насмешливый",
     "definition": "С намёком на игривость или иронию в манере речи или поведении.",
@@ -3654,7 +3632,7 @@
     ]
   },
   {
-    "termin": "array (noun)",
+    "termin": "array",
     "transcription": "[əˈreɪ]",
     "translate": "ряд, множество; массив",
     "definition": "Большое и упорядоченное количество чего-либо; в информатике — структура данных (массив).",
@@ -3965,7 +3943,7 @@
     ]
   },
   {
-    "termin": "associate (noun)",
+    "termin": "associate",
     "transcription": "[əˈsoʊsiət]",
     "translate": "партнёр, коллега",
     "definition": "Человек, связанный с другим по работе, бизнесу или дружбе.",
@@ -4375,7 +4353,7 @@
     ]
   },
   {
-    "termin": "award (noun)",
+    "termin": "award",
     "transcription": "[əˈwɔːrd]",
     "translate": "награда, премия",
     "definition": "Приз или официальное признание, данное за успехи или достижения.",
