@@ -33,17 +33,6 @@
     ]
   },
   {
-    "number": 2,
-    "termin": "abandonment",
-    "transcription": "[əˈbændənmənt]",
-    "translate": "оставление, отказ",
-    "definition": "действие или процесс оставления кого-либо или чего-либо без возврата; также состояние, когда кого-то бросили",
-    "examples": [
-      "The abandonment of the village shocked everyone.",
-      "She suffered from feelings of abandonment."
-    ]
-  },
-  {
     "number": 3,
     "termin": "abandoned",
     "transcription": "[əˈbændənd]",
@@ -96,17 +85,6 @@
     "examples": [
       "The muscle helps to abduct the arm.",
       "Doctors tested his ability to abduct the leg."
-    ]
-  },
-  {
-    "number": 9,
-    "termin": "abduction",
-    "transcription": "[æbˈdʌkʃən]",
-    "translate": "похищение",
-    "definition": "действие похищения человека силой или обманом",
-    "examples": [
-      "The police are investigating the abduction.",
-      "Child abduction cases are very serious."
     ]
   },
   {
@@ -195,17 +173,6 @@
     "examples": [
       "The patient has an abnormal heartbeat.",
       "They noticed abnormal behavior in the animal."
-    ]
-  },
-  {
-    "number": 16,
-    "termin": "abnormally",
-    "transcription": "[æbˈnɔːməli]",
-    "translate": "ненормально",
-    "definition": "таким образом, который отличается от нормы или обычного состояния",
-    "examples": [
-      "The test results were abnormally high.",
-      "He was abnormally quiet today."
     ]
   },
   {
@@ -393,17 +360,6 @@
     "examples": [
       "Water is abundant in this region.",
       "She has abundant energy and enthusiasm."
-    ]
-  },
-  {
-    "number": 31,
-    "termin": "abundantly",
-    "transcription": "[əˈbʌndəntli]",
-    "translate": "в изобилии",
-    "definition": "в большом количестве; в высшей степени",
-    "examples": [
-      "The flowers grew abundantly in the meadow.",
-      "He made it abundantly clear that he disagreed."
     ]
   },
   {
@@ -693,17 +649,6 @@
     ]
   },
   {
-    "number": 47,
-    "termin": "absorption",
-    "transcription": "[əbˈzɔːrpʃən]",
-    "translate": "поглощение, впитывание",
-    "definition": "процесс впитывания вещества, энергии, информации или внимания",
-    "examples": [
-      "Vitamin absorption is important for health.",
-      "The absorption of new knowledge takes time."
-    ]
-  },
-  {
     "number": 49,
     "termin": "absorbent",
     "transcription": "[əbˈzɔːrbənt]",
@@ -803,28 +748,6 @@
     ]
   },
   {
-    "number": 54,
-    "termin": "accelerate",
-    "transcription": "[əkˈseləreɪt]",
-    "translate": "ускорять (развитие, рост, процесс)",
-    "definition": "заставлять что-то происходить быстрее, чем обычно",
-    "examples": [
-      "New technologies accelerate economic growth.",
-      "The drug accelerated his recovery."
-    ]
-  },
-  {
-    "number": 55,
-    "termin": "acceleration",
-    "transcription": "[əkˌseləˈreɪʃn]",
-    "translate": "ускорение",
-    "definition": "процесс увеличения скорости или темпа развития",
-    "examples": [
-      "The car’s acceleration impressed everyone.",
-      "We observed an acceleration in the rate of change."
-    ]
-  },
-  {
     "number": 56,
     "termin": "accelerator",
     "transcription": "[əkˈseləreɪtər]",
@@ -833,17 +756,6 @@
     "examples": [
       "He pressed the accelerator to speed up.",
       "The accelerator of the project was additional funding."
-    ]
-  },
-  {
-    "number": 57,
-    "termin": "accelerated",
-    "transcription": "[əkˈseləreɪtɪd]",
-    "translate": "ускоренный",
-    "definition": "происходящий быстрее обычного",
-    "examples": [
-      "She took an accelerated course in English.",
-      "The disease showed accelerated progress."
     ]
   },
   {
@@ -891,39 +803,6 @@
     ]
   },
   {
-    "number": 60,
-    "termin": "acceptable",
-    "transcription": "[əkˈseptəbl]",
-    "translate": "приемлемый",
-    "definition": "такой, который можно принять, допустимый",
-    "examples": [
-      "This solution is acceptable to everyone.",
-      "The food was of an acceptable quality."
-    ]
-  },
-  {
-    "number": 62,
-    "termin": "accepted",
-    "transcription": "[əkˈseptɪd]",
-    "translate": "принятый",
-    "definition": "такой, который признан правильным или допустимым большинством",
-    "examples": [
-      "It’s an accepted practice in business.",
-      "He was accepted as a member of the club."
-    ]
-  },
-  {
-    "number": 63,
-    "termin": "acceptably",
-    "transcription": "[əkˈseptəbli]",
-    "translate": "приемлемо",
-    "definition": "в такой степени, которая считается допустимой",
-    "examples": [
-      "The work was done acceptably well.",
-      "She behaved acceptably during the meeting."
-    ]
-  },
-  {
     "number": 64,
     "termin": "access",
     "transcription": "[ˈækses]",
@@ -965,17 +844,6 @@
     "examples": [
       "The museum is easily accessible by bus.",
       "The book is written in an accessible style."
-    ]
-  },
-  {
-    "number": 67,
-    "termin": "accessibility",
-    "transcription": "[əkˌsesəˈbɪləti]",
-    "translate": "доступность",
-    "definition": "свойство быть доступным или удобным для использования/понимания",
-    "examples": [
-      "The accessibility of education is very important.",
-      "They improved the building’s accessibility for disabled people."
     ]
   },
   {
@@ -1064,28 +932,6 @@
     "examples": [
       "Meeting her was a happy accident.",
       "It happened by accident."
-    ]
-  },
-  {
-    "number": 74,
-    "termin": "accidental",
-    "transcription": "[ˌæksɪˈdentl]",
-    "translate": "случайный, непреднамеренный",
-    "definition": "произошедший без намерения или планирования",
-    "examples": [
-      "The damage was accidental.",
-      "It was an accidental discovery."
-    ]
-  },
-  {
-    "number": 75,
-    "termin": "accidentally",
-    "transcription": "[ˌæksɪˈdentəli]",
-    "translate": "случайно",
-    "definition": "непреднамеренно, нечаянно",
-    "examples": [
-      "She accidentally dropped her phone.",
-      "He accidentally deleted the file."
     ]
   },
   {
@@ -1188,28 +1034,6 @@
     ]
   },
   {
-    "number": 83,
-    "termin": "accommodating",
-    "transcription": "[əˈkɑːmədeɪtɪŋ]",
-    "translate": "уступчивый, любезный",
-    "definition": "готовый помочь, учитывать интересы других",
-    "examples": [
-      "The staff were very accommodating.",
-      "She is always accommodating to her guests."
-    ]
-  },
-  {
-    "number": 84,
-    "termin": "accommodative",
-    "transcription": "[əˈkɑːmədeɪtɪv]",
-    "translate": "приспособительный, стеремящийся помочь, гибкий (человек)",
-    "definition": "стремящийся помочь или подстроиться под других; гибкий",
-    "examples": [
-      "The accommodative policy supported economic growth.",
-      "He was accommodative in negotiations."
-    ]
-  },
-  {
     "number": 85,
     "termin": "accompany",
     "transcription": "[əˈkʌmpəni]",
@@ -1251,18 +1075,6 @@
     "examples": [
       "Graduating from university was her greatest accomplishment.",
       "The project is a major accomplishment for the team."
-    ]
-  },
-  {
-    "number": 89,
-    "termin": "accomplished",
-    "transcription": "[əˈkʌmplɪʃt]",
-    "translate": "искусный; завершённый",
-    "definition": "обладающий высоким уровнем мастерства; также о чём-то успешно завершённом",
-    "examples": [
-      "She is an accomplished pianist.",
-      "He is an accomplished writer.",
-      "The mission was accomplished successfully."
     ]
   },
   {
@@ -1668,16 +1480,6 @@
     "examples": [
       "The author gave acknowledgements at the end of the book.",
       "There was no acknowledgement of his efforts."
-    ]
-  },
-  {
-    "termin": "acknowledged",
-    "transcription": "[əkˈnɑːlɪdʒd]",
-    "translate": "признанный",
-    "definition": "официально или широко признанный как истинный или важный",
-    "examples": [
-      "She is an acknowledged expert in her field.",
-      "He is the acknowledged leader of the group."
     ]
   },
   {
