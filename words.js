@@ -13,14 +13,11 @@ function ask() {
 
   console.log(`\nТермин №${index + 1} из ${data.length}`);
   console.log(`Термин: ${item.termin}`);
-  console.log(`Транскрипция: ${item.transcription}
-    
-    
-    `);
-  // console.log(`Перевод: ${item.translate}`);
-  // console.log(`Определение: ${item.definition}`);
-  // console.log(`Примеры: 
-  //   ${item.examples}`)
+  console.log(`Транскрипция: ${item.transcription}`);
+  console.log(`Перевод: ${item.translate}`);
+  console.log(`Определение: ${item.definition}`);
+  console.log(`Примеры: 
+    ${item.examples}`)
 
   rl.question('Введите термин: ', (answer) => {
     if (answer.trim().toLowerCase() === item.termin.toLowerCase()) {
